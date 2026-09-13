@@ -40,3 +40,14 @@ Before marking an example verified:
 7. Record the verification date.
 
 Use `templates/LESSON_EXAMPLE_TEMPLATE.md` for new entries.
+
+## Catalog verification
+
+After adding or changing a lesson mapping, run:
+
+```bash
+python3 scripts/build_reference_catalog.py
+python3 scripts/validate_reference_library.py
+```
+
+The validator requires all 79 alumni archive lessons and all 106 Lance live-class lessons to be represented exactly once. Every entry must include a reason, and every entry other than `not-applicable` must include at least one reference. Recorded code must use a 40-character immutable commit or compare link; moving links are permitted only for explicitly current guides.
