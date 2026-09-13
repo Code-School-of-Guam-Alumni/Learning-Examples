@@ -24,7 +24,7 @@ Try the exercise before opening the completed snapshot. Using reference code aft
 | --- | --- | --- |
 | Rails APIs | [One-to-many associations](rails/associations/one-to-many/README.md) | Original Cohort 3 Organizer API snapshots |
 
-The catalog will grow as CSG recordings are reviewed and matched to verified code. A lesson is not listed as verified until its links, setup, and behavior have been checked.
+See [the migration catalog](CATALOG.md) for the recordings and source repositories currently being matched. A lesson is not listed as verified above until its links, setup, and behavior have been checked.
 
 ## Repository map
 
