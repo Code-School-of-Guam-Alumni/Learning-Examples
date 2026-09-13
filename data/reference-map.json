@@ -1,0 +1,3337 @@
+{
+  "alumni": [
+    {
+      "playlist_index": 79,
+      "module": "Start Here and What's New",
+      "title": "Archive: Pre-Work Orientation and Computer Setup",
+      "video_title": "CSG-Live-July-2025 - Pre Work Week 1 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=AQKjAnGmbdo",
+      "video_id": "AQKjAnGmbdo",
+      "duration": "2:02:04",
+      "role": "current",
+      "lesson_id": 318,
+      "status": "guide",
+      "reason": "This setup lesson produces a configured computer rather than application code.",
+      "references": [
+        {
+          "label": "Current development setup guides",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Resources/tree/main/web-development/01-setup",
+          "kind": "current guide"
+        }
+      ]
+    },
+    {
+      "playlist_index": 78,
+      "module": "Start Here and What's New",
+      "title": "Development Environment Setup and Tooling Overview",
+      "video_title": "CSG-Live-July-2025 - Pre Work Week 1 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=h675xGfYNXw",
+      "video_id": "h675xGfYNXw",
+      "duration": "1:13:12",
+      "role": "supplemental",
+      "lesson_id": 319,
+      "status": "guide",
+      "reason": "This setup lesson produces a configured computer rather than application code.",
+      "references": [
+        {
+          "label": "Current development setup guides",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Resources/tree/main/web-development/01-setup",
+          "kind": "current guide"
+        }
+      ]
+    },
+    {
+      "playlist_index": 77,
+      "module": "Start Here and What's New",
+      "title": "VS Code Setup and Terminal Fundamentals",
+      "video_title": "CSG-Live-July-2025 - Pre Work Week 2 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=Lsd1eBAgFtw",
+      "video_id": "Lsd1eBAgFtw",
+      "duration": "23:09",
+      "role": "current",
+      "lesson_id": 320,
+      "status": "guide",
+      "reason": "This setup lesson produces a configured computer rather than application code.",
+      "references": [
+        {
+          "label": "Current development setup guides",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Resources/tree/main/web-development/01-setup",
+          "kind": "current guide"
+        }
+      ]
+    },
+    {
+      "playlist_index": 64,
+      "module": "Start Here and What's New",
+      "title": "Archive: Create Repo and Push to GitHub Demo",
+      "video_title": "Create Repo and Push to GitHub Demo",
+      "video_url": "https://www.youtube.com/watch?v=PYPOcrSHFKM",
+      "video_id": "PYPOcrSHFKM",
+      "duration": "7:25",
+      "role": "supplemental",
+      "lesson_id": 321,
+      "status": "classroom",
+      "reason": "The repository itself is the completed artifact for the Git/GitHub workflow.",
+      "references": [
+        {
+          "label": "Git and GitHub classroom repository",
+          "url": "https://github.com/CSG-Live-July-2025/github-practice/tree/751ff6bc76eb09dd3e021e303ef7e405cfc219ad",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Current Git and GitHub guides",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Resources/tree/main/web-development/02-git-github",
+          "kind": "current guide"
+        }
+      ]
+    },
+    {
+      "playlist_index": 3,
+      "module": "Start Here and What's New",
+      "title": "Internship Onboarding and Agile Workflow",
+      "video_title": "CSG Live July 2025 - Internship Week 1 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=7XhVK-HiE5E",
+      "video_id": "7XhVK-HiE5E",
+      "duration": "29:58",
+      "role": "current",
+      "lesson_id": 322,
+      "status": "not-applicable",
+      "reason": "This orientation or internship-onboarding recording does not produce a reusable code state.",
+      "references": []
+    },
+    {
+      "playlist_index": 76,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "Ruby Basics: Syntax, Data Types, and Variables",
+      "video_title": "CSG-Live-July-2025 - Pre Work - Week 2 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=5MRnQ9TOyk8",
+      "video_id": "5MRnQ9TOyk8",
+      "duration": "1:51:01",
+      "role": "supplemental",
+      "lesson_id": 323,
+      "status": "classroom+reconstructed",
+      "reason": "The preserved class files are paired with a concise runnable current reference.",
+      "references": [
+        {
+          "label": "Week 1 Ruby classroom code",
+          "url": "https://github.com/CSG-Live-July-2025/week-1/tree/295f8586a0e9e9a56dc3577e33fe0a8f9deb19fd",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "playlist_index": 75,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "Ruby Basics: Data Types, Variables, and Conditionals",
+      "video_title": "CSG Live July 2025 - Week 1 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=504RErd01qA",
+      "video_id": "504RErd01qA",
+      "duration": "2:52:06",
+      "role": "current",
+      "lesson_id": 324,
+      "status": "classroom+reconstructed",
+      "reason": "The preserved class files are paired with a concise runnable current reference.",
+      "references": [
+        {
+          "label": "Week 1 Ruby classroom code",
+          "url": "https://github.com/CSG-Live-July-2025/week-1/tree/295f8586a0e9e9a56dc3577e33fe0a8f9deb19fd",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "playlist_index": 74,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "Conditionals and Loops",
+      "video_title": "CSG Live July 2025 - Week 1 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=BBmkZItxVrE",
+      "video_id": "BBmkZItxVrE",
+      "duration": "3:12:44",
+      "role": "current",
+      "lesson_id": 325,
+      "status": "classroom+reconstructed",
+      "reason": "The exact classroom checkpoint is paired with a small current runnable example.",
+      "references": [
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "OOP classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/week-3/tree/e6d04307b0180fec92b0c489f356f6074c2fb4a9",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 73,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "Archive: Conditional Loops, Arrays, and Nested Data",
+      "video_title": "CSG Live July 2025 - Week 1 Day 3",
+      "video_url": "https://www.youtube.com/watch?v=QIK3PymCCE4",
+      "video_id": "QIK3PymCCE4",
+      "duration": "3:06:41",
+      "role": "historical",
+      "lesson_id": 326,
+      "status": "classroom+reconstructed",
+      "reason": "The exact classroom checkpoint is paired with a small current runnable example.",
+      "references": [
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "OOP classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/week-3/tree/e6d04307b0180fec92b0c489f356f6074c2fb4a9",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 72,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "Nested Loops and Ruby Methods",
+      "video_title": "CSG Live July 2025 - Week 1 Day 4",
+      "video_url": "https://www.youtube.com/watch?v=2ZElkWfOWnA",
+      "video_id": "2ZElkWfOWnA",
+      "duration": "3:05:22",
+      "role": "current",
+      "lesson_id": 327,
+      "status": "classroom+reconstructed",
+      "reason": "The exact classroom checkpoint is paired with a small current runnable example.",
+      "references": [
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "OOP classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/week-3/tree/e6d04307b0180fec92b0c489f356f6074c2fb4a9",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 71,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "Functions, Arrays, and Deliberate Practice Methodology",
+      "video_title": "CSG Live July 2025 Week 1 Day 5",
+      "video_url": "https://www.youtube.com/watch?v=T1dwoZxEe8I",
+      "video_id": "T1dwoZxEe8I",
+      "duration": "1:41:35",
+      "role": "current",
+      "lesson_id": 328,
+      "status": "classroom+reconstructed",
+      "reason": "The preserved class files are paired with a concise runnable current reference.",
+      "references": [
+        {
+          "label": "Combined Ruby practice checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/weeks/tree/c14946d4bc4eb808e7691d178079c1cd98465b0c",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "playlist_index": 70,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "CLI Shopping List and Method Refactoring",
+      "video_title": "CSG Live July 2025 - Week 2 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=Bblw2mYZ8AU",
+      "video_id": "Bblw2mYZ8AU",
+      "duration": "2:00:44",
+      "role": "current",
+      "lesson_id": 329,
+      "status": "classroom+reconstructed",
+      "reason": "The preserved class files are paired with a concise runnable current reference.",
+      "references": [
+        {
+          "label": "Week 2 Ruby classroom code",
+          "url": "https://github.com/CSG-Live-July-2025/week-2/tree/582998dea162696fb511049afffba731d74ef8ad",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "playlist_index": 69,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "Hashes and Nested Data Structures",
+      "video_title": "CSG Live July 2025 - Week 2 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=49X1v-Gawys",
+      "video_id": "49X1v-Gawys",
+      "duration": "2:50:44",
+      "role": "current",
+      "lesson_id": 330,
+      "status": "classroom+reconstructed",
+      "reason": "The preserved class files are paired with a concise runnable current reference.",
+      "references": [
+        {
+          "label": "Week 2 Ruby classroom code",
+          "url": "https://github.com/CSG-Live-July-2025/week-2/tree/582998dea162696fb511049afffba731d74ef8ad",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "playlist_index": 68,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "Nested Data Structures and Iteration",
+      "video_title": "CSG Live July 2025 - Week 2 Day 3",
+      "video_url": "https://www.youtube.com/watch?v=trI89N2-qmg",
+      "video_id": "trI89N2-qmg",
+      "duration": "2:25:33",
+      "role": "historical",
+      "lesson_id": 331,
+      "status": "classroom+reconstructed",
+      "reason": "The preserved class files are paired with a concise runnable current reference.",
+      "references": [
+        {
+          "label": "Week 2 Ruby classroom code",
+          "url": "https://github.com/CSG-Live-July-2025/week-2/tree/582998dea162696fb511049afffba731d74ef8ad",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "playlist_index": 67,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "CLI Catalog Application: Arrays, Hashes, and User Input",
+      "video_title": "CSG Live July 2025 - Week 2 Day 4",
+      "video_url": "https://www.youtube.com/watch?v=n6lQewG3QIo",
+      "video_id": "n6lQewG3QIo",
+      "duration": "1:55:50",
+      "role": "current",
+      "lesson_id": 332,
+      "status": "classroom+reconstructed",
+      "reason": "The preserved class files are paired with a concise runnable current reference.",
+      "references": [
+        {
+          "label": "Week 2 Ruby classroom code",
+          "url": "https://github.com/CSG-Live-July-2025/week-2/tree/582998dea162696fb511049afffba731d74ef8ad",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "playlist_index": 66,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "Git and GitHub Setup and Workflow",
+      "video_title": "CSG Live July 2025 - Week 2 Day 5",
+      "video_url": "https://www.youtube.com/watch?v=o8djxlXAV9Q",
+      "video_id": "o8djxlXAV9Q",
+      "duration": "2:59:04",
+      "role": "historical",
+      "lesson_id": 333,
+      "status": "classroom+reconstructed",
+      "reason": "The preserved class files are paired with a concise runnable current reference.",
+      "references": [
+        {
+          "label": "Git and GitHub classroom repository",
+          "url": "https://github.com/CSG-Live-July-2025/github-practice/tree/751ff6bc76eb09dd3e021e303ef7e405cfc219ad",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "playlist_index": 65,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "Error Handling in Ruby",
+      "video_title": "CSG Live July 2025 - Week 3 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=26dJVWudKHQ",
+      "video_id": "26dJVWudKHQ",
+      "duration": "3:03:43",
+      "role": "current",
+      "lesson_id": 334,
+      "status": "classroom+reconstructed",
+      "reason": "The exact classroom checkpoint is paired with a small current runnable example.",
+      "references": [
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Error-handling classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/week-3/tree/5e0d75081d7e4e9dbb034cc35692791e8c430146",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 63,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "Object-Oriented Programming in Ruby",
+      "video_title": "CSG Live July 2025 - Week 3 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=yvkN9G6qeQ4",
+      "video_id": "yvkN9G6qeQ4",
+      "duration": "2:20:57",
+      "role": "historical",
+      "lesson_id": 335,
+      "status": "classroom+reconstructed",
+      "reason": "The exact classroom checkpoint is paired with a small current runnable example.",
+      "references": [
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "OOP classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/week-3/tree/e6d04307b0180fec92b0c489f356f6074c2fb4a9",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 62,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "Ruby OOP: Inheritance, Super, and Polymorphism",
+      "video_title": "CSG Live July 2025 - Week 3 Day 3",
+      "video_url": "https://www.youtube.com/watch?v=yquPzuV__80",
+      "video_id": "yquPzuV__80",
+      "duration": "2:26:58",
+      "role": "current",
+      "lesson_id": 336,
+      "status": "classroom+reconstructed",
+      "reason": "The exact classroom checkpoint is paired with a small current runnable example.",
+      "references": [
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "OOP classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/week-3/tree/e6d04307b0180fec92b0c489f356f6074c2fb4a9",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 60,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "Modules, Mixins, and Namespacing",
+      "video_title": "CSG Live July 2025 - Week 3 Day 5",
+      "video_url": "https://www.youtube.com/watch?v=nWoc0Z5xfbA",
+      "video_id": "nWoc0Z5xfbA",
+      "duration": "2:03:55",
+      "role": "current",
+      "lesson_id": 337,
+      "status": "classroom+reconstructed",
+      "reason": "The exact classroom checkpoint is paired with a small current runnable example.",
+      "references": [
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Modules-to-mixins classroom change",
+          "url": "https://github.com/CSG-Live-July-2025/week-3/compare/8f4e5326643a4ee87b807172cdd2d2334c0a35db...10d7b65df8568550f9212cc2551186da5cc9b4c8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 59,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "Object-Oriented Programming Review and RSpec Introduction",
+      "video_title": "CSG Live July 2025 - Week 4 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=jusG7bIV1TM",
+      "video_id": "jusG7bIV1TM",
+      "duration": "2:03:56",
+      "role": "historical",
+      "lesson_id": 338,
+      "status": "classroom+reconstructed",
+      "reason": "The exact classroom checkpoint is paired with a small current runnable example.",
+      "references": [
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "OOP and RSpec classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/week-3/tree/9306751432c9aa06c04212842dea0456708f0358",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 58,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "File I/O and Persistent Data Storage",
+      "video_title": "CSG Live July 2025 - Week 4 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=J854XCB8hqs",
+      "video_id": "J854XCB8hqs",
+      "duration": "2:48:08",
+      "role": "current",
+      "lesson_id": 339,
+      "status": "classroom+reconstructed",
+      "reason": "The exact classroom checkpoint is paired with a small current runnable example.",
+      "references": [
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "OOP classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/week-3/tree/e6d04307b0180fec92b0c489f356f6074c2fb4a9",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 57,
+      "module": "Ruby and Programming Fundamentals",
+      "title": "OOP Abstraction, Encapsulation, and Private Methods",
+      "video_title": "CSG Live July 2025 - Week 4 Day 3",
+      "video_url": "https://www.youtube.com/watch?v=FEGMBWoCOYo",
+      "video_id": "FEGMBWoCOYo",
+      "duration": "1:33:52",
+      "role": "current",
+      "lesson_id": 340,
+      "status": "classroom+reconstructed",
+      "reason": "The exact classroom checkpoint is paired with a small current runnable example.",
+      "references": [
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "OOP classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/week-3/tree/e6d04307b0180fec92b0c489f356f6074c2fb4a9",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 56,
+      "module": "Rails APIs and Databases",
+      "title": "Ruby File I/O, API Requests, and Rails Introduction",
+      "video_title": "CSG Live July 2025 - Week 4 Day 4",
+      "video_url": "https://www.youtube.com/watch?v=hSrlt7WuJvw",
+      "video_id": "hSrlt7WuJvw",
+      "duration": "2:59:46",
+      "role": "historical",
+      "lesson_id": 341,
+      "status": "classroom+reconstructed",
+      "reason": "The recording bridges Ruby persistence into a newly generated Rails API.",
+      "references": [
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Rails API starting checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/shoes_api/tree/ec237d0b558fa3b02f8514dda7e9c7306356528b",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 55,
+      "module": "Rails APIs and Databases",
+      "title": "Rails Controllers, Routes, and Models",
+      "video_title": "CSG Live July 2025 - Week 5 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=KNssgeDZpUk",
+      "video_id": "KNssgeDZpUk",
+      "duration": "2:36:25",
+      "role": "current",
+      "lesson_id": 342,
+      "status": "classroom",
+      "reason": "This comparison contains the model, controller, routes, and five CRUD actions.",
+      "references": [
+        {
+          "label": "Shoes API CRUD progression",
+          "url": "https://github.com/CSG-Live-July-2025/shoes_api/compare/ec237d0b558fa3b02f8514dda7e9c7306356528b...c03cb1c98eb096608210e5e6105fe51e57af52b6",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 54,
+      "module": "Rails APIs and Databases",
+      "title": "Models, Migrations, and Rails Console CRUD",
+      "video_title": "CSG Live July 2025 - Week 5 Day 3",
+      "video_url": "https://www.youtube.com/watch?v=9sEDEsIzgc8",
+      "video_id": "9sEDEsIzgc8",
+      "duration": "3:03:40",
+      "role": "current",
+      "lesson_id": 343,
+      "status": "classroom",
+      "reason": "This comparison adds the model and schema before controller work.",
+      "references": [
+        {
+          "label": "Recipe model and migration",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook_api/compare/26f42903c306410613dba0d72f3309064091c5ee...6b9083f42dd216d371ede616e75b04cb535f6c6a",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 53,
+      "module": "Rails APIs and Databases",
+      "title": "Complete CRUD Implementation in Rails APIs",
+      "video_title": "CSG Live July 2025 - Week 5 Day 4",
+      "video_url": "https://www.youtube.com/watch?v=9W_dm6FkTAs",
+      "video_id": "9W_dm6FkTAs",
+      "duration": "3:28:21",
+      "role": "current",
+      "lesson_id": 344,
+      "status": "classroom",
+      "reason": "This is the complete recipe CRUD change from a generated API.",
+      "references": [
+        {
+          "label": "Cookbook API complete CRUD",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook_api/compare/26f42903c306410613dba0d72f3309064091c5ee...e8bf8db2450fc84f0d61e45a9fbda41acd975c18",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 52,
+      "module": "Rails APIs and Databases",
+      "title": "Building a Rails API: CRUD Operations",
+      "video_title": "CSG Live July 2025 - Week 5 Day 5",
+      "video_url": "https://www.youtube.com/watch?v=T8XADrBM0VU",
+      "video_id": "T8XADrBM0VU",
+      "duration": "2:52:42",
+      "role": "current",
+      "lesson_id": 345,
+      "status": "classroom",
+      "reason": "This compact repository preserves the model and all five controller actions.",
+      "references": [
+        {
+          "label": "Animals API CRUD progression",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 51,
+      "module": "Rails APIs and Databases",
+      "title": "Building Rails APIs from Scratch and CRUD Implementation",
+      "video_title": "CSG Live July 2025 - Week 6 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=uEaKq0i4YzQ",
+      "video_id": "uEaKq0i4YzQ",
+      "duration": "3:22:01",
+      "role": "current",
+      "lesson_id": 346,
+      "status": "classroom",
+      "reason": "This second complete CRUD example supports independent comparison.",
+      "references": [
+        {
+          "label": "Computers API CRUD progression",
+          "url": "https://github.com/CSG-Live-July-2025/computer_api/compare/b75082333128643264293d590fffa8e3eb50141c...dd2104d4edc8b79fad92b1c15c969d2665030890",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 50,
+      "module": "Rails APIs and Databases",
+      "title": "Building a CRUD API and Validations",
+      "video_title": "CSG Live July 2025 - Week 6 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=XvTFrGjVMLo",
+      "video_id": "XvTFrGjVMLo",
+      "duration": "2:14:00",
+      "role": "current",
+      "lesson_id": 347,
+      "status": "classroom",
+      "reason": "The comparison adds CRUD, migrations, validation, and intentional error handling.",
+      "references": [
+        {
+          "label": "Store API through validations",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/248402b575c2a2634bcceef4aa05e029698b5279...d7d8a7754388c842200fa915f28a2641f4337fef",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 49,
+      "module": "Rails APIs and Databases",
+      "title": "Validations and Migrations",
+      "video_title": "CSG Live July 2025 - Week 6 Day 3",
+      "video_url": "https://www.youtube.com/watch?v=iU7JR_ItTR4",
+      "video_id": "iU7JR_ItTR4",
+      "duration": "2:39:08",
+      "role": "current",
+      "lesson_id": 348,
+      "status": "classroom",
+      "reason": "This classroom range isolates the table changes and model validation work.",
+      "references": [
+        {
+          "label": "Store API migrations and validations",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/e0a249f9413db36fd2639f9b361b33a5855ae326...d7d8a7754388c842200fa915f28a2641f4337fef",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 48,
+      "module": "Rails APIs and Databases",
+      "title": "Migrations and Associations",
+      "video_title": "CSG Live July 2025 - Week 6 Day 4",
+      "video_url": "https://www.youtube.com/watch?v=T_WgtxO-fUc",
+      "video_id": "T_WgtxO-fUc",
+      "duration": "1:42:25",
+      "role": "current",
+      "lesson_id": 349,
+      "status": "classroom",
+      "reason": "This range adds related tables, a foreign key, and Rails model relationships.",
+      "references": [
+        {
+          "label": "Store API one-to-many change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/d7d8a7754388c842200fa915f28a2641f4337fef...802e08a141ca575d251092943e4cc19c4febf821",
+          "kind": "original classroom change"
+        },
+        {
+          "label": "One-to-many associations reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/associations/one-to-many",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "playlist_index": 47,
+      "module": "Rails APIs and Databases",
+      "title": "Model One-to-Many Relationships in Rails",
+      "video_title": "CSG Live July 2025 - Week 6 Day 5",
+      "video_url": "https://www.youtube.com/watch?v=IVqzUmIdFPk",
+      "video_id": "IVqzUmIdFPk",
+      "duration": "2:36:27",
+      "role": "current",
+      "lesson_id": 239,
+      "status": "classroom+reconstructed",
+      "reason": "The focused reference uses Lance's exact before/after class commits and a current migration note.",
+      "references": [
+        {
+          "label": "One-to-many associations reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/associations/one-to-many",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Organizer API association change",
+          "url": "https://github.com/Code-School-of-Guam-Cohort-3/organizer_api/compare/824b9035b34ac901adf1cec952aaa60c54c06e92...fe0826187beb467865d28e4b3bc8c5d4fc96fb6e",
+          "kind": "Lance classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 46,
+      "module": "Rails APIs and Databases",
+      "title": "Database Seeding and Faker",
+      "video_title": "CSG Live July 2025 - Week 7 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=xvekMkwHwN8",
+      "video_id": "xvekMkwHwN8",
+      "duration": "2:58:13",
+      "role": "current",
+      "lesson_id": 350,
+      "status": "classroom",
+      "reason": "This comparison adds repeatable Faker-backed seeds to the evolving Store API.",
+      "references": [
+        {
+          "label": "Faker and seed-data change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/802e08a141ca575d251092943e4cc19c4febf821...ba40cb32873673dfd9e4e570acc030f7d1d22d0f",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 45,
+      "module": "Rails APIs and Databases",
+      "title": "Active Model Serializers and Group Integration",
+      "video_title": "CSG Live July 2025 - Week 7 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=mbkrFwA9m-4",
+      "video_id": "mbkrFwA9m-4",
+      "duration": "2:14:15",
+      "role": "current",
+      "lesson_id": 351,
+      "status": "classroom",
+      "reason": "This comparison adds the serializer to the existing API.",
+      "references": [
+        {
+          "label": "Product serializer change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/ba40cb32873673dfd9e4e570acc030f7d1d22d0f...ca84cc93a55048e38b5f15e3398b2ee910be88a4",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 44,
+      "module": "Rails APIs and Databases",
+      "title": "Rails Validations, Serializers, and Callbacks",
+      "video_title": "CSG Live July 2025 - Week 7 Day 3",
+      "video_url": "https://www.youtube.com/watch?v=Ugt-7pUF6l0",
+      "video_id": "Ugt-7pUF6l0",
+      "duration": "1:53:46",
+      "role": "current",
+      "lesson_id": 352,
+      "status": "classroom",
+      "reason": "This completed state preserves validations, serialization, and callback examples together.",
+      "references": [
+        {
+          "label": "Serializer-to-callback change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/ca84cc93a55048e38b5f15e3398b2ee910be88a4...6629164d041e0764b42a969c5a3f959780ab793c",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 43,
+      "module": "Rails APIs and Databases",
+      "title": "Many-to-Many Associations and Join Tables",
+      "video_title": "CSG Live July 2025 - Week 7 Day 4",
+      "video_url": "https://www.youtube.com/watch?v=aEv6D6UNd74",
+      "video_id": "aEv6D6UNd74",
+      "duration": "1:04:40",
+      "role": "historical",
+      "lesson_id": 353,
+      "status": "classroom",
+      "reason": "This repository preserves the posts/authors join-table collaboration.",
+      "references": [
+        {
+          "label": "Many-to-many classroom progression",
+          "url": "https://github.com/CSG-Live-July-2025/many_to_many_blog_api/compare/2eadc38ba040655e4ae98a736fd790713ff27776...eaa432855abf742fffdef5f71e84f76c9674646a",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 41,
+      "module": "Rails APIs and Databases",
+      "title": "JWT Authentication and Authorization",
+      "video_title": "CSG Live July 2025 - Week 8 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=pfSrtsnlubg",
+      "video_id": "pfSrtsnlubg",
+      "duration": "2:41:00",
+      "role": "current",
+      "lesson_id": 354,
+      "status": "classroom",
+      "reason": "This progression adds bcrypt, users, signup, login, and JWT issuance.",
+      "references": [
+        {
+          "label": "Authentication and JWT progression",
+          "url": "https://github.com/CSG-Live-July-2025/auth-practice-api/compare/844c6a1ad31c3d170f2810e533cff39854c72ce2...2dfb177e4c5508d14748508fcf12b7719a33029e",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 40,
+      "module": "Rails APIs and Databases",
+      "title": "Implementing JWT Authentication and Password Hashing",
+      "video_title": "CSG Live July 2025 - Week 8 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=LFZZzolWDCg",
+      "video_id": "LFZZzolWDCg",
+      "duration": "2:34:26",
+      "role": "current",
+      "lesson_id": 355,
+      "status": "classroom",
+      "reason": "This progression adds bcrypt, users, signup, login, and JWT issuance.",
+      "references": [
+        {
+          "label": "Authentication and JWT progression",
+          "url": "https://github.com/CSG-Live-July-2025/auth-practice-api/compare/844c6a1ad31c3d170f2810e533cff39854c72ce2...2dfb177e4c5508d14748508fcf12b7719a33029e",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 39,
+      "module": "Rails APIs and Databases",
+      "title": "Active Record Queries and Scopes",
+      "video_title": "CSG Live July 2025 - Week 8 Day 3",
+      "video_url": "https://www.youtube.com/watch?v=7ssqOvkSbag",
+      "video_id": "7ssqOvkSbag",
+      "duration": "3:11:37",
+      "role": "current",
+      "lesson_id": 356,
+      "status": "classroom",
+      "reason": "This classroom repository contains the query and scope practice state.",
+      "references": [
+        {
+          "label": "Active Record query and scope checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/active_record_practice_api/tree/3baae52022bd9932630158de80fad336e46e05d9",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 38,
+      "module": "Rails APIs and Databases",
+      "title": "Implementing Role-Based Authorization with Pundit",
+      "video_title": "CSG Live July 2025 - Week 8 Day 4",
+      "video_url": "https://www.youtube.com/watch?v=umR507m_B9I",
+      "video_id": "umR507m_B9I",
+      "duration": "2:06:22",
+      "role": "current",
+      "lesson_id": 357,
+      "status": "reconstructed",
+      "reason": "No safe exact Pundit snapshot survived, so the lesson points to a focused current policy implementation.",
+      "references": [
+        {
+          "label": "Pundit authorization reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/authorization/pundit",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "playlist_index": 37,
+      "module": "Rails APIs and Databases",
+      "title": "Implementing Authorization with Pundit",
+      "video_title": "CSG Live July 2025 - Week 8 Day 5",
+      "video_url": "https://www.youtube.com/watch?v=UNr7VDqURHw",
+      "video_id": "UNr7VDqURHw",
+      "duration": "2:46:06",
+      "role": "current",
+      "lesson_id": 358,
+      "status": "reconstructed",
+      "reason": "No safe exact Pundit snapshot survived, so the lesson points to a focused current policy implementation.",
+      "references": [
+        {
+          "label": "Pundit authorization reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/authorization/pundit",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "playlist_index": 36,
+      "module": "Rails APIs and Databases",
+      "title": "API Namespacing and Background Jobs",
+      "video_title": "CSG Live July 2025 - Week 9 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=pTyaJQAN6tM",
+      "video_id": "pTyaJQAN6tM",
+      "duration": "3:17:13",
+      "role": "current",
+      "lesson_id": 359,
+      "status": "classroom+reconstructed",
+      "reason": "The exact namespace change is paired with a current background-job boundary.",
+      "references": [
+        {
+          "label": "API namespace classroom change",
+          "url": "https://github.com/CSG-Live-July-2025/namespace-background-job-api/compare/002fcefa39e9c74994154c817b4e14c7690950a2...9cba85c17d0810db46eb95429a61cf2f92bc144a",
+          "kind": "original classroom change"
+        },
+        {
+          "label": "Namespacing and background-jobs reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/background-jobs",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "playlist_index": 35,
+      "module": "Rails APIs and Databases",
+      "title": "Mini Capstone Planning and MVP Definition",
+      "video_title": "CSG Live July 2025 - Week 9 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=DwYdLy-YxGw",
+      "video_id": "DwYdLy-YxGw",
+      "duration": "1:03:54",
+      "role": "current",
+      "lesson_id": 360,
+      "status": "not-applicable",
+      "reason": "This lesson produces a scoped plan, schema, user stories, and backlog rather than a shared completed code solution.",
+      "references": []
+    },
+    {
+      "playlist_index": 32,
+      "module": "Rails APIs and Databases",
+      "title": "Mini Capstone Project Presentations and Engineering Practices",
+      "video_title": "CSG Live July 2025 - Week 9 Day 5",
+      "video_url": "https://www.youtube.com/watch?v=ZWi1decRIDM",
+      "video_id": "ZWi1decRIDM",
+      "duration": "2:16:50",
+      "role": "historical",
+      "lesson_id": 361,
+      "status": "showcase",
+      "reason": "The recording reviews completed student work; these clean class applications are the inspectable reference states.",
+      "references": [
+        {
+          "label": "Cookbook backend completed state",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-backend/tree/aeaa6d18c00635985cfa67173b88d14cb282de22",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Cookbook frontend completed state",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/tree/2e07a02688d452fe560fc4aadfabb888e3999e1b",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 29,
+      "module": "Rails APIs and Databases",
+      "title": "Full-Stack Rails and Tailwind CSS Styling",
+      "video_title": "CSG Live July 2025 - Week 10 Day 3",
+      "video_url": "https://www.youtube.com/watch?v=edRCFithOSM",
+      "video_id": "edRCFithOSM",
+      "duration": "1:14:21",
+      "role": "historical",
+      "lesson_id": 362,
+      "status": "classroom",
+      "reason": "This comparison adds the full-stack product flow and Tailwind styling.",
+      "references": [
+        {
+          "label": "Full-stack Rails and Tailwind progression",
+          "url": "https://github.com/CSG-Live-July-2025/full-stack-app/compare/aea702421d16772a4bf27a31384e346e805e2b08...be1131fda81ecae22f3c03c18643f64aede3275f",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 26,
+      "module": "JavaScript",
+      "title": "JavaScript Fundamentals: Variables, Data Types, Operators, and Conditionals",
+      "video_title": "CSG Live July 2025 - Week 11 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=sDzzZ2Hvdb0",
+      "video_id": "sDzzZ2Hvdb0",
+      "duration": "2:42:20",
+      "role": "current",
+      "lesson_id": 363,
+      "status": "classroom+reconstructed",
+      "reason": "A clean executable fundamentals example is paired with the immutable classroom tooling repository.",
+      "references": [
+        {
+          "label": "JavaScript fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/javascript/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Modern JavaScript classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/modern-js/tree/b13bb02996a395eb24ab511b7f0058f192622581",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 24,
+      "module": "JavaScript",
+      "title": "JavaScript Fundamentals: Loops, Functions, and Async Concepts",
+      "video_title": "CSG Live July 2025 - Week 11 Day 3",
+      "video_url": "https://www.youtube.com/watch?v=jvupC1Yr5pw",
+      "video_id": "jvupC1Yr5pw",
+      "duration": "2:58:48",
+      "role": "current",
+      "lesson_id": 364,
+      "status": "classroom+reconstructed",
+      "reason": "A clean executable fundamentals example is paired with the immutable classroom tooling repository.",
+      "references": [
+        {
+          "label": "JavaScript fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/javascript/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Modern JavaScript classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/modern-js/tree/b13bb02996a395eb24ab511b7f0058f192622581",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 23,
+      "module": "JavaScript",
+      "title": "Ternary Operator, Asynchronous JavaScript, and Variable Declarations (var, let, const)",
+      "video_title": "CSG Live July 2025 - Week 12 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=Hn4tCQ9djE4",
+      "video_id": "Hn4tCQ9djE4",
+      "duration": "1:55:51",
+      "role": "current",
+      "lesson_id": 365,
+      "status": "classroom+reconstructed",
+      "reason": "A clean executable fundamentals example is paired with the immutable classroom tooling repository.",
+      "references": [
+        {
+          "label": "JavaScript fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/javascript/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Modern JavaScript classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/modern-js/tree/b13bb02996a395eb24ab511b7f0058f192622581",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 22,
+      "module": "JavaScript",
+      "title": "Introduction to HTML, CSS, and JavaScript DOM Manipulation",
+      "video_title": "CSG Live July 2025 - Week 12 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=tUPxrIdwr_E",
+      "video_id": "tUPxrIdwr_E",
+      "duration": "2:43:55",
+      "role": "current",
+      "lesson_id": 366,
+      "status": "classroom+reconstructed",
+      "reason": "A clean executable fundamentals example is paired with the immutable classroom tooling repository.",
+      "references": [
+        {
+          "label": "JavaScript fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/javascript/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Modern JavaScript classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/modern-js/tree/b13bb02996a395eb24ab511b7f0058f192622581",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 21,
+      "module": "JavaScript",
+      "title": "Modern JavaScript Tooling and Bundling",
+      "video_title": "CSG Live July 2025 - Week 12 Day 4",
+      "video_url": "https://www.youtube.com/watch?v=0U8Ls-Q-gv0",
+      "video_id": "0U8Ls-Q-gv0",
+      "duration": "3:07:30",
+      "role": "current",
+      "lesson_id": 367,
+      "status": "classroom+reconstructed",
+      "reason": "A clean executable fundamentals example is paired with the immutable classroom tooling repository.",
+      "references": [
+        {
+          "label": "JavaScript fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/javascript/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Modern JavaScript classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/modern-js/tree/b13bb02996a395eb24ab511b7f0058f192622581",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 17,
+      "module": "JavaScript",
+      "title": "JavaScript Fundamentals: Variables, Data Types, Functions, and Scope",
+      "video_title": "CSG Live July 2025 - Week 13 Day 4",
+      "video_url": "https://www.youtube.com/watch?v=T9FF_HXbjiU",
+      "video_id": "T9FF_HXbjiU",
+      "duration": "2:04:17",
+      "role": "current",
+      "lesson_id": 368,
+      "status": "classroom+reconstructed",
+      "reason": "A clean executable fundamentals example is paired with the immutable classroom tooling repository.",
+      "references": [
+        {
+          "label": "JavaScript fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/javascript/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Modern JavaScript classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/modern-js/tree/b13bb02996a395eb24ab511b7f0058f192622581",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 20,
+      "module": "React and Full-Stack Integration",
+      "title": "React Fundamentals: Vite Setup, Component Architecture, and Props",
+      "video_title": "CSG Live July 2025 - Week 13 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=izJnOViNZHw",
+      "video_id": "izJnOViNZHw",
+      "duration": "2:58:42",
+      "role": "current",
+      "lesson_id": 369,
+      "status": "classroom",
+      "reason": "The initial React commit preserves the generated Vite application and first page structure.",
+      "references": [
+        {
+          "label": "React/Vite starting checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/tree/8068ee1d8435af3f377af6a9754b3a87e82b95b9",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 19,
+      "module": "React and Full-Stack Integration",
+      "title": "Introduction to React Components and Dynamic Rendering",
+      "video_title": "CSG Live July 2025 - Week 13 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=OZ8u9dyzk7Y",
+      "video_id": "OZ8u9dyzk7Y",
+      "duration": "3:17:20",
+      "role": "current",
+      "lesson_id": 370,
+      "status": "classroom",
+      "reason": "This range adds reusable components, props, and state practice.",
+      "references": [
+        {
+          "label": "React components, props, and state progression",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/8068ee1d8435af3f377af6a9754b3a87e82b95b9...8ea3d591fc9930657e5382fdc8c53bcf32b0bd85",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 18,
+      "module": "React and Full-Stack Integration",
+      "title": "Load API Data into React with Components, State, and Effects",
+      "video_title": "CSG Live July 2025 - Week 13 Day 3",
+      "video_url": "https://www.youtube.com/watch?v=3SW_W7PmEd4",
+      "video_id": "3SW_W7PmEd4",
+      "duration": "3:28:38",
+      "role": "current",
+      "lesson_id": 240,
+      "status": "classroom",
+      "reason": "This range adds reusable components, props, and state practice.",
+      "references": [
+        {
+          "label": "React components, props, and state progression",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/8068ee1d8435af3f377af6a9754b3a87e82b95b9...8ea3d591fc9930657e5382fdc8c53bcf32b0bd85",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 16,
+      "module": "React and Full-Stack Integration",
+      "title": "React Show Modals and Component Organization",
+      "video_title": "CSG Live July 2025 - Week 13 Day 5",
+      "video_url": "https://www.youtube.com/watch?v=5tgaEBR1khI",
+      "video_id": "5tgaEBR1khI",
+      "duration": "2:10:32",
+      "role": "current",
+      "lesson_id": 371,
+      "status": "classroom",
+      "reason": "This range adds the show action, modal, and focused show component.",
+      "references": [
+        {
+          "label": "React show-modal progression",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/8ea3d591fc9930657e5382fdc8c53bcf32b0bd85...48d95edcc7e103bde88a0a2d695c345028474788",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 15,
+      "module": "React and Full-Stack Integration",
+      "title": "React CRUD: Show and Create Actions",
+      "video_title": "CSG Live July 2025 - Week 14 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=ONQWBuboH6A",
+      "video_id": "ONQWBuboH6A",
+      "duration": "2:47:06",
+      "role": "current",
+      "lesson_id": 372,
+      "status": "classroom",
+      "reason": "This comparison adds the controlled create form and API mutation.",
+      "references": [
+        {
+          "label": "React create action",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/48d95edcc7e103bde88a0a2d695c345028474788...d5e5bdd0bb408c7966aed94cc24f0b830260d116",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 14,
+      "module": "React and Full-Stack Integration",
+      "title": "Implementing CRUD: Create, Update, and Destroy Actions in React",
+      "video_title": "CSG Live July 2025 - Week 14 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=jq7eXTuQRmc",
+      "video_id": "jq7eXTuQRmc",
+      "duration": "3:08:33",
+      "role": "historical",
+      "lesson_id": 373,
+      "status": "classroom",
+      "reason": "This range preserves the completed React CRUD progression.",
+      "references": [
+        {
+          "label": "React CRUD progression",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/48d95edcc7e103bde88a0a2d695c345028474788...2e07a02688d452fe560fc4aadfabb888e3999e1b",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 13,
+      "module": "React and Full-Stack Integration",
+      "title": "AI-Assisted Frontend Generation and CORS",
+      "video_title": "CSG Live July 2025 - Week 15 Day 4",
+      "video_url": "https://www.youtube.com/watch?v=trMel2NI1W0",
+      "video_id": "trMel2NI1W0",
+      "duration": "2:49:27",
+      "role": "current",
+      "lesson_id": 374,
+      "status": "classroom",
+      "reason": "The backend CORS checkpoint and completed frontend show the two sides of the browser boundary.",
+      "references": [
+        {
+          "label": "Rails CORS checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-backend/tree/0f79129af66038d029cc50d83a52b95d1af93867",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Completed React client",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/tree/2e07a02688d452fe560fc4aadfabb888e3999e1b",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 12,
+      "module": "React and Full-Stack Integration",
+      "title": "React CRUD: Create Action with Props and Axios",
+      "video_title": "CSG Live July 2025 - Week 14 Day 4",
+      "video_url": "https://www.youtube.com/watch?v=PLGjYy871mQ",
+      "video_id": "PLGjYy871mQ",
+      "duration": "1:08:27",
+      "role": "current",
+      "lesson_id": 375,
+      "status": "classroom",
+      "reason": "This comparison adds the controlled create form and API mutation.",
+      "references": [
+        {
+          "label": "React create action",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/48d95edcc7e103bde88a0a2d695c345028474788...d5e5bdd0bb408c7966aed94cc24f0b830260d116",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 1,
+      "module": "React and Full-Stack Integration",
+      "title": "Navigating New Full-Stack Applications",
+      "video_title": "CSG Live July 2025 - Internship Week 2 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=32Ig8EKM57U",
+      "video_id": "32Ig8EKM57U",
+      "duration": "23:37",
+      "role": "historical",
+      "lesson_id": 376,
+      "status": "classroom",
+      "reason": "The completed frontend and backend provide a full application for tracing setup and data flow.",
+      "references": [
+        {
+          "label": "Completed React client",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/tree/2e07a02688d452fe560fc4aadfabb888e3999e1b",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Completed Rails API",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-backend/tree/aeaa6d18c00635985cfa67173b88d14cb282de22",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 10,
+      "module": "Python and FastAPI",
+      "title": "Translate Ruby and JavaScript Fundamentals into Python",
+      "video_title": "CSG Live July 2025 - Week 16 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=6L_8jqmVe8o",
+      "video_id": "6L_8jqmVe8o",
+      "duration": "2:48:20",
+      "role": "current",
+      "lesson_id": 241,
+      "status": "reconstructed",
+      "reason": "No exact standalone fundamentals repository survived, so this lesson uses a verified standard-library reference.",
+      "references": [
+        {
+          "label": "Python fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/python-fastapi/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Current Python and FastAPI guides",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Resources/tree/main/AI-Engineering",
+          "kind": "current guide"
+        }
+      ]
+    },
+    {
+      "playlist_index": 9,
+      "module": "AI Engineering",
+      "title": "Introduction to LLMs and Basic Chatbot Development",
+      "video_title": "CSG Live July 2025 - Week 16 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=qTh6G1_MyI8",
+      "video_id": "qTh6G1_MyI8",
+      "duration": "3:08:25",
+      "role": "current",
+      "lesson_id": 377,
+      "status": "classroom",
+      "reason": "The first chatbot commit preserves the initial model call and application structure.",
+      "references": [
+        {
+          "label": "Initial AI/chatbot classroom checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/spam-bots-chatbot/tree/5c89b62b595791c26ac650d618df4959d32352b2",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 8,
+      "module": "AI Engineering",
+      "title": "Build a Chatbot with Prompts, Conversation Memory, and FastAPI",
+      "video_title": "CSG Live July 2025 - Week 16 Day 3",
+      "video_url": "https://www.youtube.com/watch?v=fCXHKhI82Bw",
+      "video_id": "fCXHKhI82Bw",
+      "duration": "2:29:57",
+      "role": "current",
+      "lesson_id": 242,
+      "status": "classroom",
+      "reason": "This complete commit range preserves multi-turn memory, system prompts, FastAPI, and longer-context work.",
+      "references": [
+        {
+          "label": "Chatbot and FastAPI progression",
+          "url": "https://github.com/CSG-Live-July-2025/spam-bots-chatbot/compare/5c89b62b595791c26ac650d618df4959d32352b2...32f60418a5b10d7acd144fad731bd84753777752",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 61,
+      "module": "Testing and Deployment",
+      "title": "Introduction to RSpec and Automated Testing",
+      "video_title": "CSG Live July 2025 - Week 3 Day 4",
+      "video_url": "https://www.youtube.com/watch?v=u4X-I72QtwI",
+      "video_id": "u4X-I72QtwI",
+      "duration": "2:11:51",
+      "role": "current",
+      "lesson_id": 378,
+      "status": "classroom",
+      "reason": "This range preserves the initial automated-test setup and first passing examples.",
+      "references": [
+        {
+          "label": "RSpec introduction progression",
+          "url": "https://github.com/CSG-Live-July-2025/rspec_demo/compare/2020a7e76351db8d97ef9c4e505974ced10280a0...cab46ea0b82eecb510a8b184fc63d413b92bd746",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 42,
+      "module": "Testing and Deployment",
+      "title": "Professional Git Workflow for Team Collaboration",
+      "video_title": "CSG Live July 2025 - Week 7 Day 5",
+      "video_url": "https://www.youtube.com/watch?v=vxbP0MP_DVA",
+      "video_id": "vxbP0MP_DVA",
+      "duration": "1:51:10",
+      "role": "current",
+      "lesson_id": 379,
+      "status": "classroom",
+      "reason": "The pull-request history is the artifact for this collaboration lesson.",
+      "references": [
+        {
+          "label": "Collaborative Git and pull-request history",
+          "url": "https://github.com/CSG-Live-July-2025/collab_api/compare/34771306f2054900287b04f46d5dd69719f26280...670dc129a02a99829ede003c096ac0eab65a9dfb",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 34,
+      "module": "Testing and Deployment",
+      "title": "Mini Capstone Planning and Professional Engineering Practices",
+      "video_title": "CSG Live July 2025 - Week 9 Day 3",
+      "video_url": "https://www.youtube.com/watch?v=5qBkLnM-gu8",
+      "video_id": "5qBkLnM-gu8",
+      "duration": "1:35:17",
+      "role": "historical",
+      "lesson_id": 380,
+      "status": "showcase",
+      "reason": "The lesson is planning-oriented; the completed application pair is available for architecture comparison.",
+      "references": [
+        {
+          "label": "Completed Rails API",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-backend/tree/aeaa6d18c00635985cfa67173b88d14cb282de22",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Completed React client",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/tree/2e07a02688d452fe560fc4aadfabb888e3999e1b",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "playlist_index": 31,
+      "module": "Testing and Deployment",
+      "title": "RSpec and Factory Bot Setup for Rails",
+      "video_title": "CSG Live July 2025 - Week 10 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=ZRFsDlaxcBE",
+      "video_id": "ZRFsDlaxcBE",
+      "duration": "2:33:21",
+      "role": "current",
+      "lesson_id": 381,
+      "status": "classroom",
+      "reason": "This comparison adds RSpec, Factory Bot, factories, and model tests.",
+      "references": [
+        {
+          "label": "RSpec and Factory Bot setup",
+          "url": "https://github.com/CSG-Live-July-2025/rspec_demo/compare/abda922f2c88d3e43871ec79f7840b0c8e5e86c0...cab46ea0b82eecb510a8b184fc63d413b92bd746",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 30,
+      "module": "Testing and Deployment",
+      "title": "RSpec Request Specs and Introduction to Full-Stack Rails",
+      "video_title": "CSG Live July 2025 - Week 10 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=nKxzE55BajU",
+      "video_id": "nKxzE55BajU",
+      "duration": "2:01:47",
+      "role": "current",
+      "lesson_id": 382,
+      "status": "classroom",
+      "reason": "This comparison adds controller behavior and request specs.",
+      "references": [
+        {
+          "label": "RSpec request-spec progression",
+          "url": "https://github.com/CSG-Live-July-2025/rspec_demo/compare/cab46ea0b82eecb510a8b184fc63d413b92bd746...e64d1258030abd5f278cb9f31a599278cf0c3582",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "playlist_index": 11,
+      "module": "Testing and Deployment",
+      "title": "Deploying Rails Backend to Render and React Frontend to Netlify",
+      "video_title": "CSG Live July 2025 - Week 15 Day 5",
+      "video_url": "https://www.youtube.com/watch?v=Otzinb2xcuQ",
+      "video_id": "Otzinb2xcuQ",
+      "duration": "31:44",
+      "role": "current",
+      "lesson_id": 383,
+      "status": "classroom",
+      "reason": "The completed frontend and backend preserve the production-oriented configuration discussed in class.",
+      "references": [
+        {
+          "label": "Deployment-ready Rails API",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-backend/tree/aeaa6d18c00635985cfa67173b88d14cb282de22",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Deployment-ready React client",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/tree/2e07a02688d452fe560fc4aadfabb888e3999e1b",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Current deployment guides",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Resources/tree/main/web-development/05-deployment",
+          "kind": "current guide"
+        }
+      ]
+    },
+    {
+      "playlist_index": 2,
+      "module": "Testing and Deployment",
+      "title": "Advanced Deployment Concepts: Microservices, AWS S3, and Docker",
+      "video_title": "CSG Live July 2025 - Internship Week 2 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=5G5Tr3biTM0",
+      "video_id": "5G5Tr3biTM0",
+      "duration": "55:11",
+      "role": "historical",
+      "lesson_id": 384,
+      "status": "classroom",
+      "reason": "The completed frontend and backend preserve the production-oriented configuration discussed in class.",
+      "references": [
+        {
+          "label": "Deployment-ready Rails API",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-backend/tree/aeaa6d18c00635985cfa67173b88d14cb282de22",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Deployment-ready React client",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/tree/2e07a02688d452fe560fc4aadfabb888e3999e1b",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Current deployment guides",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Resources/tree/main/web-development/05-deployment",
+          "kind": "current guide"
+        }
+      ]
+    },
+    {
+      "playlist_index": 33,
+      "module": "Professional Development",
+      "title": "Archive: Reflecting on Learning Curves and External Resources",
+      "video_title": "CSG Live July 2025 - Week 9 Day 4",
+      "video_url": "https://www.youtube.com/watch?v=TCJ7cjsp76M",
+      "video_id": "TCJ7cjsp76M",
+      "duration": "14:08",
+      "role": "supplemental",
+      "lesson_id": 385,
+      "status": "not-applicable",
+      "reason": "This career, interview, reflection, planning, or presentation-preparation lesson does not have one canonical completed code solution.",
+      "references": []
+    },
+    {
+      "playlist_index": 28,
+      "module": "Professional Development",
+      "title": "Resume Building and Job Search Strategy",
+      "video_title": "CSG Live July 2025 - Week 10 Day 4",
+      "video_url": "https://www.youtube.com/watch?v=L3nx3P7p_3c",
+      "video_id": "L3nx3P7p_3c",
+      "duration": "3:07:00",
+      "role": "current",
+      "lesson_id": 386,
+      "status": "not-applicable",
+      "reason": "This career, interview, reflection, planning, or presentation-preparation lesson does not have one canonical completed code solution.",
+      "references": []
+    },
+    {
+      "playlist_index": 27,
+      "module": "Professional Development",
+      "title": "Technical Interview Preparation: LeetCode and Whiteboarding",
+      "video_title": "CSG Live July 2025 - Week 10 Day 5",
+      "video_url": "https://www.youtube.com/watch?v=dpv0zOdzmY8",
+      "video_id": "dpv0zOdzmY8",
+      "duration": "1:44:18",
+      "role": "current",
+      "lesson_id": 387,
+      "status": "practice-reference",
+      "reason": "Interview exercises can have many valid solutions; these executable fundamentals references provide code to trace and discuss rather than a single answer to memorize.",
+      "references": [
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "JavaScript fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/javascript/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Current supplemental practice resources",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Resources/tree/main/web-development/supplemental",
+          "kind": "current guide"
+        }
+      ]
+    },
+    {
+      "playlist_index": 25,
+      "module": "Professional Development",
+      "title": "Technical Interview Strategies and Data Structures",
+      "video_title": "CSG Live July 2025 - Week 11 Day 2",
+      "video_url": "https://www.youtube.com/watch?v=63HiSNt1dFw",
+      "video_id": "63HiSNt1dFw",
+      "duration": "2:36:04",
+      "role": "current",
+      "lesson_id": 388,
+      "status": "practice-reference",
+      "reason": "Interview exercises can have many valid solutions; these executable fundamentals references provide code to trace and discuss rather than a single answer to memorize.",
+      "references": [
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "JavaScript fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/javascript/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Current supplemental practice resources",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Resources/tree/main/web-development/supplemental",
+          "kind": "current guide"
+        }
+      ]
+    },
+    {
+      "playlist_index": 7,
+      "module": "Professional Development",
+      "title": "Capstone Project Planning and MVP Definition",
+      "video_title": "CSG Live July 2025 - Week 17 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=0i1BAAW6GhQ",
+      "video_id": "0i1BAAW6GhQ",
+      "duration": "13:25",
+      "role": "current",
+      "lesson_id": 389,
+      "status": "not-applicable",
+      "reason": "This career, interview, reflection, planning, or presentation-preparation lesson does not have one canonical completed code solution.",
+      "references": []
+    },
+    {
+      "playlist_index": 6,
+      "module": "Professional Development",
+      "title": "Capstone Presentation Prep & Post-Cohort Opportunities",
+      "video_title": "CSG Live July 2025 - Week 18 Day 1",
+      "video_url": "https://www.youtube.com/watch?v=M56EpVXGOm4",
+      "video_id": "M56EpVXGOm4",
+      "duration": "42:45",
+      "role": "current",
+      "lesson_id": 390,
+      "status": "not-applicable",
+      "reason": "This career, interview, reflection, planning, or presentation-preparation lesson does not have one canonical completed code solution.",
+      "references": []
+    },
+    {
+      "playlist_index": 5,
+      "module": "Professional Development",
+      "title": "Post-Program Opportunities and Continued Learning",
+      "video_title": "AI Presentations + After Program Plans",
+      "video_url": "https://www.youtube.com/watch?v=bciCP4ARZIY",
+      "video_id": "bciCP4ARZIY",
+      "duration": "1:02:58",
+      "role": "current",
+      "lesson_id": 391,
+      "status": "not-applicable",
+      "reason": "This career, interview, reflection, planning, or presentation-preparation lesson does not have one canonical completed code solution.",
+      "references": []
+    },
+    {
+      "playlist_index": 4,
+      "module": "Professional Development",
+      "title": "Archive: Capstone Presentations - Spam Bots Cohort",
+      "video_title": "The Code School of Guam Capstone Presentations - Spam Bots (December 12th, 2025)",
+      "video_url": "https://www.youtube.com/watch?v=bWuS_YuiRzI",
+      "video_id": "bWuS_YuiRzI",
+      "duration": "1:18:57",
+      "role": "historical",
+      "lesson_id": 392,
+      "status": "showcase",
+      "reason": "The presentation is the primary artifact; the final chatbot repository is available for technical inspection.",
+      "references": [
+        {
+          "label": "Spam Bots completed chatbot code",
+          "url": "https://github.com/CSG-Live-July-2025/spam-bots-chatbot/tree/32f60418a5b10d7acd144fad731bd84753777752",
+          "kind": "original classroom code"
+        }
+      ]
+    }
+  ],
+  "lance": [
+    {
+      "id": 131,
+      "title": "Terminal Review/Course Setup",
+      "required": true,
+      "position": 1,
+      "status": "guide",
+      "reason": "The output is a working development environment rather than application code.",
+      "references": [
+        {
+          "label": "Current development setup guides",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Resources/tree/main/web-development/01-setup",
+          "kind": "current guide"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "title": "Ruby Review with Task Tracker CLI",
+      "required": true,
+      "position": 2,
+      "status": "reconstructed",
+      "reason": "Use the concise runnable reference after attempting the exercise.",
+      "references": [
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "title": "Day 2 - Zoom Live Class Recording",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 133,
+      "title": "Ruby Review with Data Structures Part 1",
+      "required": true,
+      "position": 1,
+      "status": "reconstructed",
+      "reason": "Use the concise runnable reference after attempting the exercise.",
+      "references": [
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "title": "Ruby Review with Data Structures Part 2",
+      "required": true,
+      "position": 2,
+      "status": "reconstructed",
+      "reason": "Use the concise runnable reference after attempting the exercise.",
+      "references": [
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "title": "Ruby Review with Data Structures Part 3",
+      "required": true,
+      "position": 3,
+      "status": "reconstructed",
+      "reason": "Use the concise runnable reference after attempting the exercise.",
+      "references": [
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "title": "Day 4 - Zoom Live Class Recording",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 136,
+      "title": "JavaScript, HTML, & CSS Review",
+      "required": true,
+      "position": 1,
+      "status": "reconstructed",
+      "reason": "Use the executable fundamentals and async example after attempting the exercise.",
+      "references": [
+        {
+          "label": "JavaScript fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/javascript/fundamentals",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "title": "Breakdown of the Task Tracker CLI",
+      "required": true,
+      "position": 1,
+      "status": "reconstructed",
+      "reason": "Use the concise runnable reference after attempting the exercise.",
+      "references": [
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "title": "Database Intro Using SQL Part 1",
+      "required": true,
+      "position": 2,
+      "status": "classroom",
+      "reason": "A completed Rails API provides an inspectable model/controller/database boundary.",
+      "references": [
+        {
+          "label": "Cookbook API MVC and CRUD progression",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook_api/compare/26f42903c306410613dba0d72f3309064091c5ee...e8bf8db2450fc84f0d61e45a9fbda41acd975c18",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "title": "Database Intro Using SQL Part 2",
+      "required": true,
+      "position": 3,
+      "status": "classroom",
+      "reason": "A completed Rails API provides an inspectable model/controller/database boundary.",
+      "references": [
+        {
+          "label": "Cookbook API MVC and CRUD progression",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook_api/compare/26f42903c306410613dba0d72f3309064091c5ee...e8bf8db2450fc84f0d61e45a9fbda41acd975c18",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "title": "Database Intro Using MVC",
+      "required": true,
+      "position": 4,
+      "status": "classroom",
+      "reason": "A completed Rails API provides an inspectable model/controller/database boundary.",
+      "references": [
+        {
+          "label": "Cookbook API MVC and CRUD progression",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook_api/compare/26f42903c306410613dba0d72f3309064091c5ee...e8bf8db2450fc84f0d61e45a9fbda41acd975c18",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "title": "Day 7 - Zoom Live Class Recording",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 141,
+      "title": "Intro to Rails",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This progression shows the generated API, model, controller, routes, and CRUD endpoints.",
+      "references": [
+        {
+          "label": "Rails API introduction progression",
+          "url": "https://github.com/CSG-Live-July-2025/shoes_api/compare/ec237d0b558fa3b02f8514dda7e9c7306356528b...c03cb1c98eb096608210e5e6105fe51e57af52b6",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "title": "Day 9 - Zoom Live Class Recording",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 142,
+      "title": "Breakdown of the Week 2 Lessons (For better understanding)",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This progression shows the generated API, model, controller, routes, and CRUD endpoints.",
+      "references": [
+        {
+          "label": "Rails API introduction progression",
+          "url": "https://github.com/CSG-Live-July-2025/shoes_api/compare/ec237d0b558fa3b02f8514dda7e9c7306356528b...c03cb1c98eb096608210e5e6105fe51e57af52b6",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "title": "CRUD Actions in Rails Console",
+      "required": true,
+      "position": 2,
+      "status": "classroom",
+      "reason": "This checkpoint exposes the model and database state for console practice.",
+      "references": [
+        {
+          "label": "Rails model and migration change",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook_api/compare/26f42903c306410613dba0d72f3309064091c5ee...6b9083f42dd216d371ede616e75b04cb535f6c6a",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "title": "CRUD Actions in Rails API",
+      "required": true,
+      "position": 3,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "title": "Seeding Data",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This exact classroom change adds repeatable seed data.",
+      "references": [
+        {
+          "label": "Faker and seed-data change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/802e08a141ca575d251092943e4cc19c4febf821...ba40cb32873673dfd9e4e570acc030f7d1d22d0f",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "title": "Creating Basic Rails API Start to Finish (contacts_api Answer Key)",
+      "required": true,
+      "position": 2,
+      "status": "classroom",
+      "reason": "The original answer-key repository is preserved at the exact reviewed commit.",
+      "references": [
+        {
+          "label": "Contacts API answer key",
+          "url": "https://github.com/CruzAlanna/contacts_api/tree/b13d2653756e7d1ac1d53b5142f47dd613f42deb",
+          "kind": "original answer key"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "title": "Day 12 - Zoom Live Class Recording",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 147,
+      "title": "Starting Our Mini Capstones",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 148,
+      "title": "Create Data in your Rails API",
+      "required": true,
+      "position": 2,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "title": "Add CRUD functionality to your Rails API",
+      "required": true,
+      "position": 3,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "title": "Day 14 - Practice and Catch Up Day!",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 150,
+      "title": "Working on your Mini Capstone",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 151,
+      "title": "Rails API Practice: Creating models and seeding data",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This checkpoint exposes the model and database state for console practice.",
+      "references": [
+        {
+          "label": "Rails model and migration change",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook_api/compare/26f42903c306410613dba0d72f3309064091c5ee...6b9083f42dd216d371ede616e75b04cb535f6c6a",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "title": "Catch Up Day!",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 152,
+      "title": "Rails API Practice: CRUD - Reading All Data Using the Index Method",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "title": "Rails API Practice: CRUD - Reading Specific Data Using the Show Method",
+      "required": true,
+      "position": 2,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "title": "Catch Up Day!",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 153,
+      "title": "Rails API Practice: CRUD - Creating Data Using the Create Method",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "title": "Rails API Practice: CRUD - Updating Data using the Update Method",
+      "required": true,
+      "position": 2,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "title": "Rails API Practice: CRUD - Deleting Data Using the Destroy Method",
+      "required": true,
+      "position": 3,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "title": "Rails API Recap Practice: Creating a New Rails API",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This progression starts from the generated application and ends with a working model and CRUD boundary.",
+      "references": [
+        {
+          "label": "Rails API start-to-finish reference",
+          "url": "https://github.com/CSG-Live-July-2025/shoes_api/compare/ec237d0b558fa3b02f8514dda7e9c7306356528b...c03cb1c98eb096608210e5e6105fe51e57af52b6",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "title": "Creating a Model",
+      "required": true,
+      "position": 2,
+      "status": "classroom",
+      "reason": "This checkpoint exposes the model and database state for console practice.",
+      "references": [
+        {
+          "label": "Rails model and migration change",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook_api/compare/26f42903c306410613dba0d72f3309064091c5ee...6b9083f42dd216d371ede616e75b04cb535f6c6a",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "title": "Practicing CRUD in the Rails Console",
+      "required": true,
+      "position": 3,
+      "status": "classroom",
+      "reason": "This checkpoint exposes the model and database state for console practice.",
+      "references": [
+        {
+          "label": "Rails model and migration change",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook_api/compare/26f42903c306410613dba0d72f3309064091c5ee...6b9083f42dd216d371ede616e75b04cb535f6c6a",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "title": "Creating a Controller with Basic CRUD Methods",
+      "required": true,
+      "position": 4,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "title": "Adding Routes for Controller Methods to Practice CRUD in Browser",
+      "required": true,
+      "position": 5,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "title": "Submit your Mini Capstone",
+      "required": true,
+      "position": 6,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 171,
+      "title": "Seeding Data",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This exact classroom change adds repeatable seed data.",
+      "references": [
+        {
+          "label": "Faker and seed-data change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/802e08a141ca575d251092943e4cc19c4febf821...ba40cb32873673dfd9e4e570acc030f7d1d22d0f",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "title": "Model Methods",
+      "required": true,
+      "position": 2,
+      "status": "classroom",
+      "reason": "This checkpoint exposes the model and database state for console practice.",
+      "references": [
+        {
+          "label": "Rails model and migration change",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook_api/compare/26f42903c306410613dba0d72f3309064091c5ee...6b9083f42dd216d371ede616e75b04cb535f6c6a",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "title": "Migrations",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This range demonstrates changing an existing table through migrations.",
+      "references": [
+        {
+          "label": "Store API migration changes",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/e0a249f9413db36fd2639f9b361b33a5855ae326...a18b7df275a97fbcd83df6c88158095fe42e7ee8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "title": "Practicing Migrations",
+      "required": true,
+      "position": 2,
+      "status": "classroom",
+      "reason": "This range demonstrates changing an existing table through migrations.",
+      "references": [
+        {
+          "label": "Store API migration changes",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/e0a249f9413db36fd2639f9b361b33a5855ae326...a18b7df275a97fbcd83df6c88158095fe42e7ee8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "title": "Validations - practice_api",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This range adds model validations and intentional 422 error handling.",
+      "references": [
+        {
+          "label": "Store API validation change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/a18b7df275a97fbcd83df6c88158095fe42e7ee8...d7d8a7754388c842200fa915f28a2641f4337fef",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "title": "Practice Validations - chef_api",
+      "required": true,
+      "position": 2,
+      "status": "classroom",
+      "reason": "This range adds model validations and intentional 422 error handling.",
+      "references": [
+        {
+          "label": "Store API validation change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/a18b7df275a97fbcd83df6c88158095fe42e7ee8...d7d8a7754388c842200fa915f28a2641f4337fef",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "title": "Practice Validations - contacts_api",
+      "required": true,
+      "position": 3,
+      "status": "classroom",
+      "reason": "This range adds model validations and intentional 422 error handling.",
+      "references": [
+        {
+          "label": "Store API validation change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/a18b7df275a97fbcd83df6c88158095fe42e7ee8...d7d8a7754388c842200fa915f28a2641f4337fef",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "title": "Practice Validations - mini capstone",
+      "required": true,
+      "position": 4,
+      "status": "classroom",
+      "reason": "This range adds model validations and intentional 422 error handling.",
+      "references": [
+        {
+          "label": "Store API validation change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/a18b7df275a97fbcd83df6c88158095fe42e7ee8...d7d8a7754388c842200fa915f28a2641f4337fef",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "title": "Happy and Sad Paths",
+      "required": true,
+      "position": 5,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "title": "Making Requests to Happy and Sad Paths",
+      "required": true,
+      "position": 6,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "title": "Making Requests to Happy and Sad Paths - mini capstone",
+      "required": true,
+      "position": 7,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "title": "Practice Validations - validations_api",
+      "required": true,
+      "position": 8,
+      "status": "classroom",
+      "reason": "This range adds model validations and intentional 422 error handling.",
+      "references": [
+        {
+          "label": "Store API validation change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/a18b7df275a97fbcd83df6c88158095fe42e7ee8...d7d8a7754388c842200fa915f28a2641f4337fef",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "title": "Library Management System - Creating a New Rails API",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This progression starts from the generated application and ends with a working model and CRUD boundary.",
+      "references": [
+        {
+          "label": "Rails API start-to-finish reference",
+          "url": "https://github.com/CSG-Live-July-2025/shoes_api/compare/ec237d0b558fa3b02f8514dda7e9c7306356528b...c03cb1c98eb096608210e5e6105fe51e57af52b6",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "title": "Library Management System - Models",
+      "required": true,
+      "position": 2,
+      "status": "classroom",
+      "reason": "This checkpoint exposes the model and database state for console practice.",
+      "references": [
+        {
+          "label": "Rails model and migration change",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook_api/compare/26f42903c306410613dba0d72f3309064091c5ee...6b9083f42dd216d371ede616e75b04cb535f6c6a",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "title": "Library Management System - Migrations",
+      "required": true,
+      "position": 3,
+      "status": "classroom",
+      "reason": "This range demonstrates changing an existing table through migrations.",
+      "references": [
+        {
+          "label": "Store API migration changes",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/e0a249f9413db36fd2639f9b361b33a5855ae326...a18b7df275a97fbcd83df6c88158095fe42e7ee8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "title": "Library Management System - Validations",
+      "required": true,
+      "position": 4,
+      "status": "classroom",
+      "reason": "This range adds model validations and intentional 422 error handling.",
+      "references": [
+        {
+          "label": "Store API validation change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/a18b7df275a97fbcd83df6c88158095fe42e7ee8...d7d8a7754388c842200fa915f28a2641f4337fef",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "title": "Library Management System - Controllers and Routes",
+      "required": true,
+      "position": 5,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "title": "Library Management System - Happy/Sad Paths",
+      "required": true,
+      "position": 6,
+      "status": "classroom",
+      "reason": "This completed CRUD range supports tracing each request and response path.",
+      "references": [
+        {
+          "label": "Rails CRUD reference",
+          "url": "https://github.com/CSG-Live-July-2025/animals_api/compare/44fdb1c684bc32f536c2ec4908b0199ff2e307a8...05006124ef3b38f45de40eb83042eff77ae54bd8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "title": "Library Management System - Seeding Data",
+      "required": true,
+      "position": 7,
+      "status": "classroom",
+      "reason": "This exact classroom change adds repeatable seed data.",
+      "references": [
+        {
+          "label": "Faker and seed-data change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/802e08a141ca575d251092943e4cc19c4febf821...ba40cb32873673dfd9e4e570acc030f7d1d22d0f",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "title": "Library Management System - Reflection",
+      "required": true,
+      "position": 8,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 191,
+      "title": "Introduction to Associations Part 1",
+      "required": true,
+      "position": 1,
+      "status": "classroom+reconstructed",
+      "reason": "Compare Lance's exact class change with the focused associations reference.",
+      "references": [
+        {
+          "label": "One-to-many associations reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/associations/one-to-many",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Lance's association change",
+          "url": "https://github.com/Code-School-of-Guam-Cohort-3/organizer_api/compare/824b9035b34ac901adf1cec952aaa60c54c06e92...fe0826187beb467865d28e4b3bc8c5d4fc96fb6e",
+          "kind": "Lance classroom change"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "title": "Introduction to Associations Part 2",
+      "required": true,
+      "position": 2,
+      "status": "classroom+reconstructed",
+      "reason": "Compare Lance's exact class change with the focused associations reference.",
+      "references": [
+        {
+          "label": "One-to-many associations reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/associations/one-to-many",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Lance's association change",
+          "url": "https://github.com/Code-School-of-Guam-Cohort-3/organizer_api/compare/824b9035b34ac901adf1cec952aaa60c54c06e92...fe0826187beb467865d28e4b3bc8c5d4fc96fb6e",
+          "kind": "Lance classroom change"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "title": "Adding Association Key to Table Through Migration",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This range demonstrates changing an existing table through migrations.",
+      "references": [
+        {
+          "label": "Store API migration changes",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/e0a249f9413db36fd2639f9b361b33a5855ae326...a18b7df275a97fbcd83df6c88158095fe42e7ee8",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "title": "Associating Pre-existing Data With New Data",
+      "required": true,
+      "position": 2,
+      "status": "classroom+reconstructed",
+      "reason": "Compare Lance's exact class change with the focused associations reference.",
+      "references": [
+        {
+          "label": "One-to-many associations reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/associations/one-to-many",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Lance's association change",
+          "url": "https://github.com/Code-School-of-Guam-Cohort-3/organizer_api/compare/824b9035b34ac901adf1cec952aaa60c54c06e92...fe0826187beb467865d28e4b3bc8c5d4fc96fb6e",
+          "kind": "Lance classroom change"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "title": "Viewing Associations in the Console",
+      "required": true,
+      "position": 3,
+      "status": "classroom+reconstructed",
+      "reason": "Compare Lance's exact class change with the focused associations reference.",
+      "references": [
+        {
+          "label": "One-to-many associations reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/associations/one-to-many",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Lance's association change",
+          "url": "https://github.com/Code-School-of-Guam-Cohort-3/organizer_api/compare/824b9035b34ac901adf1cec952aaa60c54c06e92...fe0826187beb467865d28e4b3bc8c5d4fc96fb6e",
+          "kind": "Lance classroom change"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "title": "Seed Database & Add in Associations Shortcut",
+      "required": true,
+      "position": 4,
+      "status": "classroom",
+      "reason": "This exact classroom change adds repeatable seed data.",
+      "references": [
+        {
+          "label": "Faker and seed-data change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/802e08a141ca575d251092943e4cc19c4febf821...ba40cb32873673dfd9e4e570acc030f7d1d22d0f",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "title": "Build Your First Serializer",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This classroom comparison adds a serializer to an established API.",
+      "references": [
+        {
+          "label": "Product serializer change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/ba40cb32873673dfd9e4e570acc030f7d1d22d0f...ca84cc93a55048e38b5f15e3398b2ee910be88a4",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "title": "Serialize Relationships Without Recursive JSON",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This classroom comparison adds a serializer to an established API.",
+      "references": [
+        {
+          "label": "Product serializer change",
+          "url": "https://github.com/CSG-Live-July-2025/store_api/compare/ba40cb32873673dfd9e4e570acc030f7d1d22d0f...ca84cc93a55048e38b5f15e3398b2ee910be88a4",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "title": "Optional: Associations and Foreign Keys Review",
+      "required": false,
+      "position": 1,
+      "status": "classroom+reconstructed",
+      "reason": "Compare Lance's exact class change with the focused associations reference.",
+      "references": [
+        {
+          "label": "One-to-many associations reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/associations/one-to-many",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Lance's association change",
+          "url": "https://github.com/Code-School-of-Guam-Cohort-3/organizer_api/compare/824b9035b34ac901adf1cec952aaa60c54c06e92...fe0826187beb467865d28e4b3bc8c5d4fc96fb6e",
+          "kind": "Lance classroom change"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "title": "Optional: Integrated Rails API Review Lab",
+      "required": false,
+      "position": 1,
+      "status": "classroom",
+      "reason": "The completed classroom API is a comparison target; Lance's own Organizer API remains the assignment.",
+      "references": [
+        {
+          "label": "Completed Rails API reference",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-backend/tree/aeaa6d18c00635985cfa67173b88d14cb282de22",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "title": "Optional: Many-to-Many Associations Preview",
+      "required": false,
+      "position": 1,
+      "status": "classroom+reconstructed",
+      "reason": "Compare Lance's exact class change with the focused associations reference.",
+      "references": [
+        {
+          "label": "One-to-many associations reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/associations/one-to-many",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Lance's association change",
+          "url": "https://github.com/Code-School-of-Guam-Cohort-3/organizer_api/compare/824b9035b34ac901adf1cec952aaa60c54c06e92...fe0826187beb467865d28e4b3bc8c5d4fc96fb6e",
+          "kind": "Lance classroom change"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "title": "Secure User Passwords",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This range adds bcrypt, signup, login, JWT issuance, request authorization, and user-owned records.",
+      "references": [
+        {
+          "label": "Rails authentication and ownership progression",
+          "url": "https://github.com/CSG-Live-July-2025/auth-practice-api/compare/844c6a1ad31c3d170f2810e533cff39854c72ce2...8e647acc9a0d9b61405eb51b2b2c6b6193aab0cd",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "title": "Build the Signup Endpoint",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This range adds bcrypt, signup, login, JWT issuance, request authorization, and user-owned records.",
+      "references": [
+        {
+          "label": "Rails authentication and ownership progression",
+          "url": "https://github.com/CSG-Live-July-2025/auth-practice-api/compare/844c6a1ad31c3d170f2810e533cff39854c72ce2...8e647acc9a0d9b61405eb51b2b2c6b6193aab0cd",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "title": "Build Login and Issue a JWT",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This range adds bcrypt, signup, login, JWT issuance, request authorization, and user-owned records.",
+      "references": [
+        {
+          "label": "Rails authentication and ownership progression",
+          "url": "https://github.com/CSG-Live-July-2025/auth-practice-api/compare/844c6a1ad31c3d170f2810e533cff39854c72ce2...8e647acc9a0d9b61405eb51b2b2c6b6193aab0cd",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "title": "Protect Task Endpoints and Scope Data",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This range adds bcrypt, signup, login, JWT issuance, request authorization, and user-owned records.",
+      "references": [
+        {
+          "label": "Rails authentication and ownership progression",
+          "url": "https://github.com/CSG-Live-July-2025/auth-practice-api/compare/844c6a1ad31c3d170f2810e533cff39854c72ce2...8e647acc9a0d9b61405eb51b2b2c6b6193aab0cd",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "title": "Optional: Add Policy-Based Authorization with Pundit",
+      "required": false,
+      "position": 1,
+      "status": "reconstructed",
+      "reason": "Use the focused policy, controller, and policy-spec files after attempting the task.",
+      "references": [
+        {
+          "label": "Pundit authorization reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/authorization/pundit",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "title": "Organize the API Under /api/v1",
+      "required": true,
+      "position": 1,
+      "status": "classroom+reconstructed",
+      "reason": "The namespace history is paired with the current job/controller boundary.",
+      "references": [
+        {
+          "label": "API namespace change",
+          "url": "https://github.com/CSG-Live-July-2025/namespace-background-job-api/compare/002fcefa39e9c74994154c817b4e14c7690950a2...9cba85c17d0810db46eb95429a61cf2f92bc144a",
+          "kind": "original classroom change"
+        },
+        {
+          "label": "Namespacing and background-jobs reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/background-jobs",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "title": "Reconfirm the Organizer MVP",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 210,
+      "title": "Complete the Backend Acceptance Checklist",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "The completed classroom API is a comparison target; Lance's own Organizer API remains the assignment.",
+      "references": [
+        {
+          "label": "Completed Rails API reference",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-backend/tree/aeaa6d18c00635985cfa67173b88d14cb282de22",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "title": "Optional: Understand Background Jobs",
+      "required": false,
+      "position": 1,
+      "status": "classroom+reconstructed",
+      "reason": "The namespace history is paired with the current job/controller boundary.",
+      "references": [
+        {
+          "label": "API namespace change",
+          "url": "https://github.com/CSG-Live-July-2025/namespace-background-job-api/compare/002fcefa39e9c74994154c817b4e14c7690950a2...9cba85c17d0810db46eb95429a61cf2f92bc144a",
+          "kind": "original classroom change"
+        },
+        {
+          "label": "Namespacing and background-jobs reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/background-jobs",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "title": "Demo and Document the Backend",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "The completed classroom API is a comparison target; Lance's own Organizer API remains the assignment.",
+      "references": [
+        {
+          "label": "Completed Rails API reference",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-backend/tree/aeaa6d18c00635985cfa67173b88d14cb282de22",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "title": "Translate Ruby Fundamentals into JavaScript",
+      "required": true,
+      "position": 1,
+      "status": "reconstructed",
+      "reason": "Use the concise runnable reference after attempting the exercise.",
+      "references": [
+        {
+          "label": "Ruby fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Ruby OOP and persistence reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "title": "Make Decisions with JavaScript",
+      "required": true,
+      "position": 1,
+      "status": "reconstructed",
+      "reason": "Use the executable fundamentals and async example after attempting the exercise.",
+      "references": [
+        {
+          "label": "JavaScript fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/javascript/fundamentals",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "title": "Loop Through Collections",
+      "required": true,
+      "position": 1,
+      "status": "reconstructed",
+      "reason": "Use the executable fundamentals and async example after attempting the exercise.",
+      "references": [
+        {
+          "label": "JavaScript fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/javascript/fundamentals",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "title": "Practice Decomposition with Task Data",
+      "required": true,
+      "position": 1,
+      "status": "reconstructed",
+      "reason": "Use the executable fundamentals and async example after attempting the exercise.",
+      "references": [
+        {
+          "label": "JavaScript fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/javascript/fundamentals",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "title": "Optional: See Asynchronous JavaScript in Action",
+      "required": false,
+      "position": 1,
+      "status": "reconstructed",
+      "reason": "Use the executable fundamentals and async example after attempting the exercise.",
+      "references": [
+        {
+          "label": "JavaScript fundamentals reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/javascript/fundamentals",
+          "kind": "reconstructed current reference"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "title": "Create the Organizer React Client",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This range preserves Vite setup, components, props, and state practice.",
+      "references": [
+        {
+          "label": "React foundation progression",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/8068ee1d8435af3f377af6a9754b3a87e82b95b9...8ea3d591fc9930657e5382fdc8c53bcf32b0bd85",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "title": "Split the Interface into Components",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This range preserves Vite setup, components, props, and state practice.",
+      "references": [
+        {
+          "label": "React foundation progression",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/8068ee1d8435af3f377af6a9754b3a87e82b95b9...8ea3d591fc9930657e5382fdc8c53bcf32b0bd85",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "title": "Pass Task Data with Props",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This range preserves Vite setup, components, props, and state practice.",
+      "references": [
+        {
+          "label": "React foundation progression",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/8068ee1d8435af3f377af6a9754b3a87e82b95b9...8ea3d591fc9930657e5382fdc8c53bcf32b0bd85",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "title": "Load Tasks from the Rails API",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This exact comparison adds Axios, state, effects, and collection rendering.",
+      "references": [
+        {
+          "label": "React API-loading change",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/8068ee1d8435af3f377af6a9754b3a87e82b95b9...8bce20744907b25f96c519053d84bf80be57e95b",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "title": "Optional: Add a Task Detail Modal",
+      "required": false,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This range adds a show action, modal, and focused detail component.",
+      "references": [
+        {
+          "label": "React show-modal progression",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/8ea3d591fc9930657e5382fdc8c53bcf32b0bd85...48d95edcc7e103bde88a0a2d695c345028474788",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "title": "Create Tasks from React",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This comparison adds the create form and API mutation.",
+      "references": [
+        {
+          "label": "React create action",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/48d95edcc7e103bde88a0a2d695c345028474788...d5e5bdd0bb408c7966aed94cc24f0b830260d116",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "title": "Update Tasks from React",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This comparison isolates the update flow.",
+      "references": [
+        {
+          "label": "React update action",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/d5e5bdd0bb408c7966aed94cc24f0b830260d116...32c14f07878f0654fec6ba6aad522e326191e73d",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "title": "Delete Tasks from React",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This completed range contains create, update, and delete behavior.",
+      "references": [
+        {
+          "label": "Completed React CRUD progression",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/48d95edcc7e103bde88a0a2d695c345028474788...2e07a02688d452fe560fc4aadfabb888e3999e1b",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "title": "Pass the React CRUD Acceptance Check",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This completed range contains create, update, and delete behavior.",
+      "references": [
+        {
+          "label": "Completed React CRUD progression",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/48d95edcc7e103bde88a0a2d695c345028474788...2e07a02688d452fe560fc4aadfabb888e3999e1b",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "title": "Optional: Rebuild the CRUD Flow from a Blank Starter",
+      "required": false,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This completed range contains create, update, and delete behavior.",
+      "references": [
+        {
+          "label": "Completed React CRUD progression",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/compare/48d95edcc7e103bde88a0a2d695c345028474788...2e07a02688d452fe560fc4aadfabb888e3999e1b",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "title": "Build Frontend Signup and Login",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "This range adds bcrypt, signup, login, JWT issuance, request authorization, and user-owned records.",
+      "references": [
+        {
+          "label": "Rails authentication and ownership progression",
+          "url": "https://github.com/CSG-Live-July-2025/auth-practice-api/compare/844c6a1ad31c3d170f2810e533cff39854c72ce2...8e647acc9a0d9b61405eb51b2b2c6b6193aab0cd",
+          "kind": "original classroom change"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "title": "Restore Sessions and Protect the Interface",
+      "required": true,
+      "position": 1,
+      "status": "reconstructed",
+      "reason": "Use the focused session-context and protected-route files after attempting the integration.",
+      "references": [
+        {
+          "label": "React authentication reference",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/react/authentication",
+          "kind": "reconstructed current reference"
+        },
+        {
+          "label": "Authenticated Rails API checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-backend/tree/549b707b52e8a031ed3b96af914c64a91cc6d5f5",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "title": "Deploy the Rails API and PostgreSQL Database",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "The completed API preserves the configuration used for deployment practice.",
+      "references": [
+        {
+          "label": "Deployment-ready Rails API",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-backend/tree/aeaa6d18c00635985cfa67173b88d14cb282de22",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Current deployment guides",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Resources/tree/main/web-development/05-deployment",
+          "kind": "current guide"
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "title": "Deploy the React Client and Connect Production",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "The completed client and API preserve the production integration boundary.",
+      "references": [
+        {
+          "label": "Deployment-ready React client",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/tree/2e07a02688d452fe560fc4aadfabb888e3999e1b",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Deployment-ready Rails API",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-backend/tree/aeaa6d18c00635985cfa67173b88d14cb282de22",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Current deployment guides",
+          "url": "https://github.com/Code-School-of-Guam-Alumni/Resources/tree/main/web-development/05-deployment",
+          "kind": "current guide"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "title": "Optional: Diagnose an Unfamiliar Frontend and CORS Failure",
+      "required": true,
+      "position": 1,
+      "status": "classroom",
+      "reason": "Compare the backend CORS checkpoint with the completed client.",
+      "references": [
+        {
+          "label": "Rails CORS checkpoint",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-backend/tree/0f79129af66038d029cc50d83a52b95d1af93867",
+          "kind": "original classroom code"
+        },
+        {
+          "label": "Completed React client",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/tree/2e07a02688d452fe560fc4aadfabb888e3999e1b",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "title": "Lock the Final Scope",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 234,
+      "title": "Run the Production QA Matrix",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 235,
+      "title": "Optional: Improve Presentation and Accessibility",
+      "required": true,
+      "position": 1,
+      "status": "showcase",
+      "reason": "There is no single visual answer key; use the completed client as an inspectable baseline, then improve it without copying its design.",
+      "references": [
+        {
+          "label": "Completed React client baseline",
+          "url": "https://github.com/CSG-Live-July-2025/cookbook-frontend/tree/2e07a02688d452fe560fc4aadfabb888e3999e1b",
+          "kind": "original classroom code"
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "title": "Write the Evaluator-Ready README and Portfolio Entry",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    },
+    {
+      "id": 237,
+      "title": "Deliver the Final Demo and Handoff",
+      "required": true,
+      "position": 1,
+      "status": "not-applicable",
+      "reason": "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.",
+      "references": []
+    }
+  ]
+}
