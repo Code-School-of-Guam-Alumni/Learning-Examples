@@ -1,0 +1,639 @@
+[
+  {
+    "id": 131,
+    "title": "Terminal Review/Course Setup",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 132,
+    "title": "Ruby Review with Task Tracker CLI",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 157,
+    "title": "Day 2 - Zoom Live Class Recording",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 133,
+    "title": "Ruby Review with Data Structures Part 1",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 134,
+    "title": "Ruby Review with Data Structures Part 2",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 135,
+    "title": "Ruby Review with Data Structures Part 3",
+    "required": true,
+    "position": 3
+  },
+  {
+    "id": 158,
+    "title": "Day 4 - Zoom Live Class Recording",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 136,
+    "title": "JavaScript, HTML, & CSS Review",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 137,
+    "title": "Breakdown of the Task Tracker CLI",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 138,
+    "title": "Database Intro Using SQL Part 1",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 139,
+    "title": "Database Intro Using SQL Part 2",
+    "required": true,
+    "position": 3
+  },
+  {
+    "id": 140,
+    "title": "Database Intro Using MVC",
+    "required": true,
+    "position": 4
+  },
+  {
+    "id": 159,
+    "title": "Day 7 - Zoom Live Class Recording",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 141,
+    "title": "Intro to Rails",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 160,
+    "title": "Day 9 - Zoom Live Class Recording",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 142,
+    "title": "Breakdown of the Week 2 Lessons (For better understanding)",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 143,
+    "title": "CRUD Actions in Rails Console",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 144,
+    "title": "CRUD Actions in Rails API",
+    "required": true,
+    "position": 3
+  },
+  {
+    "id": 145,
+    "title": "Seeding Data",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 146,
+    "title": "Creating Basic Rails API Start to Finish (contacts_api Answer Key)",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 161,
+    "title": "Day 12 - Zoom Live Class Recording",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 147,
+    "title": "Starting Our Mini Capstones",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 148,
+    "title": "Create Data in your Rails API",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 149,
+    "title": "Add CRUD functionality to your Rails API",
+    "required": true,
+    "position": 3
+  },
+  {
+    "id": 162,
+    "title": "Day 14 - Practice and Catch Up Day!",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 150,
+    "title": "Working on your Mini Capstone",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 151,
+    "title": "Rails API Practice: Creating models and seeding data",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 163,
+    "title": "Catch Up Day!",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 152,
+    "title": "Rails API Practice: CRUD - Reading All Data Using the Index Method",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 154,
+    "title": "Rails API Practice: CRUD - Reading Specific Data Using the Show Method",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 164,
+    "title": "Catch Up Day!",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 153,
+    "title": "Rails API Practice: CRUD - Creating Data Using the Create Method",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 155,
+    "title": "Rails API Practice: CRUD - Updating Data using the Update Method",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 156,
+    "title": "Rails API Practice: CRUD - Deleting Data Using the Destroy Method",
+    "required": true,
+    "position": 3
+  },
+  {
+    "id": 165,
+    "title": "Rails API Recap Practice: Creating a New Rails API",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 166,
+    "title": "Creating a Model",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 167,
+    "title": "Practicing CRUD in the Rails Console",
+    "required": true,
+    "position": 3
+  },
+  {
+    "id": 168,
+    "title": "Creating a Controller with Basic CRUD Methods",
+    "required": true,
+    "position": 4
+  },
+  {
+    "id": 169,
+    "title": "Adding Routes for Controller Methods to Practice CRUD in Browser",
+    "required": true,
+    "position": 5
+  },
+  {
+    "id": 170,
+    "title": "Submit your Mini Capstone",
+    "required": true,
+    "position": 6
+  },
+  {
+    "id": 171,
+    "title": "Seeding Data",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 172,
+    "title": "Model Methods",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 173,
+    "title": "Migrations",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 174,
+    "title": "Practicing Migrations",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 175,
+    "title": "Validations - practice_api",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 176,
+    "title": "Practice Validations - chef_api",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 177,
+    "title": "Practice Validations - contacts_api",
+    "required": true,
+    "position": 3
+  },
+  {
+    "id": 178,
+    "title": "Practice Validations - mini capstone",
+    "required": true,
+    "position": 4
+  },
+  {
+    "id": 179,
+    "title": "Happy and Sad Paths",
+    "required": true,
+    "position": 5
+  },
+  {
+    "id": 180,
+    "title": "Making Requests to Happy and Sad Paths",
+    "required": true,
+    "position": 6
+  },
+  {
+    "id": 181,
+    "title": "Making Requests to Happy and Sad Paths - mini capstone",
+    "required": true,
+    "position": 7
+  },
+  {
+    "id": 182,
+    "title": "Practice Validations - validations_api",
+    "required": true,
+    "position": 8
+  },
+  {
+    "id": 183,
+    "title": "Library Management System - Creating a New Rails API",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 184,
+    "title": "Library Management System - Models",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 185,
+    "title": "Library Management System - Migrations",
+    "required": true,
+    "position": 3
+  },
+  {
+    "id": 186,
+    "title": "Library Management System - Validations",
+    "required": true,
+    "position": 4
+  },
+  {
+    "id": 187,
+    "title": "Library Management System - Controllers and Routes",
+    "required": true,
+    "position": 5
+  },
+  {
+    "id": 188,
+    "title": "Library Management System - Happy/Sad Paths",
+    "required": true,
+    "position": 6
+  },
+  {
+    "id": 189,
+    "title": "Library Management System - Seeding Data",
+    "required": true,
+    "position": 7
+  },
+  {
+    "id": 190,
+    "title": "Library Management System - Reflection",
+    "required": true,
+    "position": 8
+  },
+  {
+    "id": 191,
+    "title": "Introduction to Associations Part 1",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 192,
+    "title": "Introduction to Associations Part 2",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 193,
+    "title": "Adding Association Key to Table Through Migration",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 194,
+    "title": "Associating Pre-existing Data With New Data",
+    "required": true,
+    "position": 2
+  },
+  {
+    "id": 195,
+    "title": "Viewing Associations in the Console",
+    "required": true,
+    "position": 3
+  },
+  {
+    "id": 196,
+    "title": "Seed Database & Add in Associations Shortcut",
+    "required": true,
+    "position": 4
+  },
+  {
+    "id": 198,
+    "title": "Build Your First Serializer",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 199,
+    "title": "Serialize Relationships Without Recursive JSON",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 200,
+    "title": "Optional: Associations and Foreign Keys Review",
+    "required": false,
+    "position": 1
+  },
+  {
+    "id": 201,
+    "title": "Optional: Integrated Rails API Review Lab",
+    "required": false,
+    "position": 1
+  },
+  {
+    "id": 202,
+    "title": "Optional: Many-to-Many Associations Preview",
+    "required": false,
+    "position": 1
+  },
+  {
+    "id": 203,
+    "title": "Secure User Passwords",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 204,
+    "title": "Build the Signup Endpoint",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 205,
+    "title": "Build Login and Issue a JWT",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 206,
+    "title": "Protect Task Endpoints and Scope Data",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 207,
+    "title": "Optional: Add Policy-Based Authorization with Pundit",
+    "required": false,
+    "position": 1
+  },
+  {
+    "id": 208,
+    "title": "Organize the API Under /api/v1",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 209,
+    "title": "Reconfirm the Organizer MVP",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 210,
+    "title": "Complete the Backend Acceptance Checklist",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 211,
+    "title": "Optional: Understand Background Jobs",
+    "required": false,
+    "position": 1
+  },
+  {
+    "id": 212,
+    "title": "Demo and Document the Backend",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 213,
+    "title": "Translate Ruby Fundamentals into JavaScript",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 214,
+    "title": "Make Decisions with JavaScript",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 215,
+    "title": "Loop Through Collections",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 216,
+    "title": "Practice Decomposition with Task Data",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 217,
+    "title": "Optional: See Asynchronous JavaScript in Action",
+    "required": false,
+    "position": 1
+  },
+  {
+    "id": 218,
+    "title": "Create the Organizer React Client",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 219,
+    "title": "Split the Interface into Components",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 220,
+    "title": "Pass Task Data with Props",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 221,
+    "title": "Load Tasks from the Rails API",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 222,
+    "title": "Optional: Add a Task Detail Modal",
+    "required": false,
+    "position": 1
+  },
+  {
+    "id": 223,
+    "title": "Create Tasks from React",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 224,
+    "title": "Update Tasks from React",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 225,
+    "title": "Delete Tasks from React",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 226,
+    "title": "Pass the React CRUD Acceptance Check",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 227,
+    "title": "Optional: Rebuild the CRUD Flow from a Blank Starter",
+    "required": false,
+    "position": 1
+  },
+  {
+    "id": 228,
+    "title": "Build Frontend Signup and Login",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 229,
+    "title": "Restore Sessions and Protect the Interface",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 230,
+    "title": "Deploy the Rails API and PostgreSQL Database",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 231,
+    "title": "Deploy the React Client and Connect Production",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 232,
+    "title": "Optional: Diagnose an Unfamiliar Frontend and CORS Failure",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 233,
+    "title": "Lock the Final Scope",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 234,
+    "title": "Run the Production QA Matrix",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 235,
+    "title": "Optional: Improve Presentation and Accessibility",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 236,
+    "title": "Write the Evaluator-Ready README and Portfolio Entry",
+    "required": true,
+    "position": 1
+  },
+  {
+    "id": 237,
+    "title": "Deliver the Final Demo and Handoff",
+    "required": true,
+    "position": 1
+  }
+]
+
