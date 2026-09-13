@@ -639,9 +639,9 @@ Lance should attempt each exercise in his own Organizer project before opening a
 
 - Production: [lesson 202](https://learn.codeschoolofguam.com/lessons/202)
 - Required for Lance: `false`
-- Reference status: `classroom+reconstructed`
-- Why: Compare Lance's exact class change with the focused associations reference.
-- Reference: [One-to-many associations reference](https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/rails/associations/one-to-many)<br>[Lance's association change](https://github.com/Code-School-of-Guam-Cohort-3/organizer_api/compare/824b9035b34ac901adf1cec952aaa60c54c06e92...fe0826187beb467865d28e4b3bc8c5d4fc96fb6e)
+- Reference status: `classroom`
+- Why: This exact repository history preserves the join-table and association work.
+- Reference: [Many-to-many reference](https://github.com/CSG-Live-July-2025/many_to_many_blog_api/compare/2eadc38ba040655e4ae98a736fd790713ff27776...eaa432855abf742fffdef5f71e84f76c9674646a)
 
 <a id="lance-lesson-203"></a>
 ## 203: Secure User Passwords
@@ -739,8 +739,8 @@ Lance should attempt each exercise in his own Organizer project before opening a
 - Production: [lesson 213](https://learn.codeschoolofguam.com/lessons/213)
 - Required for Lance: `true`
 - Reference status: `reconstructed`
-- Why: Use the concise runnable reference after attempting the exercise.
-- Reference: [Ruby fundamentals reference](https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/fundamentals)<br>[Ruby OOP and persistence reference](https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/ruby/oop)
+- Why: Use the executable fundamentals and async example after attempting the exercise.
+- Reference: [JavaScript fundamentals reference](https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/javascript/fundamentals)
 
 <a id="lance-lesson-214"></a>
 ## 214: Make Decisions with JavaScript
@@ -873,9 +873,9 @@ Lance should attempt each exercise in his own Organizer project before opening a
 
 - Production: [lesson 228](https://learn.codeschoolofguam.com/lessons/228)
 - Required for Lance: `true`
-- Reference status: `classroom`
-- Why: This range adds bcrypt, signup, login, JWT issuance, request authorization, and user-owned records.
-- Reference: [Rails authentication and ownership progression](https://github.com/CSG-Live-July-2025/auth-practice-api/compare/844c6a1ad31c3d170f2810e533cff39854c72ce2...8e647acc9a0d9b61405eb51b2b2c6b6193aab0cd)
+- Reference status: `reconstructed`
+- Why: Use the focused session-context and protected-route files after attempting the integration.
+- Reference: [React authentication reference](https://github.com/Code-School-of-Guam-Alumni/Learning-Examples/tree/afbe99cc129a2f6604be678c39968ba1632edbe4/react/authentication)<br>[Authenticated Rails API checkpoint](https://github.com/CSG-Live-July-2025/cookbook-backend/tree/549b707b52e8a031ed3b96af914c64a91cc6d5f5)
 
 <a id="lance-lesson-229"></a>
 ## 229: Restore Sessions and Protect the Interface

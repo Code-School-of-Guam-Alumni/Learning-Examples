@@ -229,10 +229,10 @@ def lance_reference(item: dict[str, object]) -> dict[str, object]:
         return result("not-applicable", "This is a session container, learner-owned project milestone, review, or delivery checklist rather than a shared answer key.")
     if "terminal" in lower or "course setup" in lower:
         return result("guide", "The output is a working development environment rather than application code.", guide("web-development/01-setup", "Current development setup guides"))
-    if "ruby" in lower or "task tracker cli" in lower or "data structures" in lower:
-        return result("reconstructed", "Use the concise runnable reference after attempting the exercise.", RUBY_FUNDAMENTALS, RUBY_OOP)
     if "javascript" in lower or "html" in lower or "loop through" in lower or "make decisions" in lower or "decomposition with task data" in lower or "asynchronous javascript" in lower:
         return result("reconstructed", "Use the executable fundamentals and async example after attempting the exercise.", JS_FUNDAMENTALS)
+    if "ruby" in lower or "task tracker cli" in lower or "data structures" in lower:
+        return result("reconstructed", "Use the concise runnable reference after attempting the exercise.", RUBY_FUNDAMENTALS, RUBY_OOP)
     if "database intro" in lower or "mvc" in lower:
         return result("classroom", "A completed Rails API provides an inspectable model/controller/database boundary.", source_compare("cookbook_api", "26f4290", "e8bf8db", "Cookbook API MVC and CRUD progression"))
     if "intro to rails" in lower or "breakdown of the week 2" in lower:
@@ -249,15 +249,21 @@ def lance_reference(item: dict[str, object]) -> dict[str, object]:
         return result("classroom", "This range demonstrates changing an existing table through migrations.", source_compare("store_api", "e0a249f", "a18b7df", "Store API migration changes"))
     if "validation" in lower:
         return result("classroom", "This range adds model validations and intentional 422 error handling.", source_compare("store_api", "a18b7df", "d7d8a77", "Store API validation change"))
+    if "many-to-many" in lower:
+        return result("classroom", "This exact repository history preserves the join-table and association work.", source_compare("many_to_many_blog_api", "2eadc38", "eaa4328", "Many-to-many reference"))
     if "association" in lower or "foreign key" in lower or "associating pre-existing" in lower:
         return result("classroom+reconstructed", "Compare Lance's exact class change with the focused associations reference.", ONE_TO_MANY, organizer_compare("824b9035b34ac901adf1cec952aaa60c54c06e92", "fe0826187beb467865d28e4b3bc8c5d4fc96fb6e", "Lance's association change"))
     if "serializer" in lower or "serialize relationships" in lower:
         return result("classroom", "This classroom comparison adds a serializer to an established API.", source_compare("store_api", "ba40cb3", "ca84cc9", "Product serializer change"))
     if "integrated rails api" in lower or "backend acceptance" in lower or "demo and document the backend" in lower:
         return result("classroom", "The completed classroom API is a comparison target; Lance's own Organizer API remains the assignment.", source_tree("cookbook-backend", "aeaa6d1", "Completed Rails API reference"))
-    if "many-to-many" in lower:
-        return result("classroom", "This exact repository history preserves the join-table and association work.", source_compare("many_to_many_blog_api", "2eadc38", "eaa4328", "Many-to-many reference"))
-    if "secure user passwords" in lower or "signup" in lower or "login" in lower and "frontend" not in lower or "protect task endpoints" in lower or "scope data" in lower:
+    if (
+        "secure user passwords" in lower
+        or ("signup" in lower and "frontend" not in lower)
+        or ("login" in lower and "frontend" not in lower)
+        or "protect task endpoints" in lower
+        or "scope data" in lower
+    ):
         return result("classroom", "This range adds bcrypt, signup, login, JWT issuance, request authorization, and user-owned records.", source_compare("auth-practice-api", "844c6a1", "8e647ac", "Rails authentication and ownership progression"))
     if "pundit" in lower or "policy-based authorization" in lower:
         return result("reconstructed", "Use the focused policy, controller, and policy-spec files after attempting the task.", PUNDIT_REFERENCE)
