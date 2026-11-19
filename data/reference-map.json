@@ -3260,7 +3260,7 @@
     {
       "id": 232,
       "title": "Optional: Diagnose an Unfamiliar Frontend and CORS Failure",
-      "required": true,
+      "required": false,
       "position": 1,
       "status": "classroom",
       "reason": "Compare the backend CORS checkpoint with the completed client.",
@@ -3298,7 +3298,7 @@
     {
       "id": 235,
       "title": "Optional: Improve Presentation and Accessibility",
-      "required": true,
+      "required": false,
       "position": 1,
       "status": "showcase",
       "reason": "There is no single visual answer key; use the completed client as an inspectable baseline, then improve it without copying its design.",

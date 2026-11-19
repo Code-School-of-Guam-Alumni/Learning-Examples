@@ -908,7 +908,7 @@ Lance should attempt each exercise in his own Organizer project before opening a
 ## 232: Optional: Diagnose an Unfamiliar Frontend and CORS Failure
 
 - Production: [lesson 232](https://learn.codeschoolofguam.com/lessons/232)
-- Required for Lance: `true`
+- Required for Lance: `false`
 - Reference status: `classroom`
 - Why: Compare the backend CORS checkpoint with the completed client.
 - Reference: [Rails CORS checkpoint](https://github.com/CSG-Live-July-2025/cookbook-backend/tree/0f79129af66038d029cc50d83a52b95d1af93867)<br>[Completed React client](https://github.com/CSG-Live-July-2025/cookbook-frontend/tree/2e07a02688d452fe560fc4aadfabb888e3999e1b)
@@ -935,7 +935,7 @@ Lance should attempt each exercise in his own Organizer project before opening a
 ## 235: Optional: Improve Presentation and Accessibility
 
 - Production: [lesson 235](https://learn.codeschoolofguam.com/lessons/235)
-- Required for Lance: `true`
+- Required for Lance: `false`
 - Reference status: `showcase`
 - Why: There is no single visual answer key; use the completed client as an inspectable baseline, then improve it without copying its design.
 - Reference: [Completed React client baseline](https://github.com/CSG-Live-July-2025/cookbook-frontend/tree/2e07a02688d452fe560fc4aadfabb888e3999e1b)
