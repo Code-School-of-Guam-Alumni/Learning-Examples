@@ -602,7 +602,7 @@
   {
     "id": 232,
     "title": "Optional: Diagnose an Unfamiliar Frontend and CORS Failure",
-    "required": true,
+    "required": false,
     "position": 1
   },
   {
@@ -620,7 +620,7 @@
   {
     "id": 235,
     "title": "Optional: Improve Presentation and Accessibility",
-    "required": true,
+    "required": false,
     "position": 1
   },
   {
@@ -636,4 +636,3 @@
     "position": 1
   }
 ]
-
